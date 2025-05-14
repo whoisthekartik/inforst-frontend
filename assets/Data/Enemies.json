@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "",
+    "maxhp": 33333,
+    "maxsp": 500,
+    "str": 999,
+    "dex": 50,
+    "agi": 50,
+    "int": 50,
+    "atk": 100,
+    "pdef": 100,
+    "mdef": 100,
+    "eva": 0,
+    "animation1_id": 0,
+    "animation2_id": 0,
+    "battler_name": "",
+    "battler_hue": 0,
+    "exp": 0,
+    "gold": 0,
+    "item_id": 0,
+    "weapon_id": 0,
+    "armor_id": 0,
+    "treasure_prob": 100,
+    "actions": [
+      {
+        "kind": 0,
+        "basic": 0,
+        "skill_id": 1,
+        "condition_type": null,
+        "condition_param1": null,
+        "condition_param2": null,
+        "rating": 5
+      }
+    ]
+  }
+]

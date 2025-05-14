@@ -1,0 +1,41 @@
+[
+  {
+    "id": "quest_001",
+    "dialogue": "A mysterious figure appears. What do you do?",
+    "choices": [
+      { "text": "Ask who they are", "next": "quest_002" },
+      { "text": "Ignore them", "next": "quest_003" }
+    ]
+  },
+
+{
+  "start": {
+    "Frostborn": { "text": "The ice calls to you...", "next": "frost1" },
+    "Infernos": { "text": "The flames rise...", "next": "fire1" }
+  },
+  ...
+}
+  {
+    "id": "quest_002",
+    "dialogue": "They say: 'I am a guardian of balance.'",
+    "choices": [
+      { "text": "Join them", "next": "quest_004" },
+      { "text": "Walk away", "next": "quest_005" }
+
+
+// game_data/quests.json
+[
+  {
+    "name": "Defeat the Wild Beast",
+    "description": "The wild beast has been terrorizing the nearby village. Defeat it in battle to protect the town!",
+    "reward": "100 coins"
+  },
+  {
+    "name": "Collect 10 Herbs",
+    "description": "The village healer needs herbs to make potions. Collect 10 herbs from the forest.",
+    "reward": "Health Potion"
+  }
+]
+    ]
+  }
+]

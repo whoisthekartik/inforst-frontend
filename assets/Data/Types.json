@@ -1,0 +1,21 @@
+{
+  "NORMAL": "#<GameData::Type:0x00000197f6172c28>",
+  "FIGHTING": "#<GameData::Type:0x00000197f6171c60>",
+  "FLYING": "#<GameData::Type:0x00000197f6171468>",
+  "POISON": "#<GameData::Type:0x00000197f6170cc0>",
+  "GROUND": "#<GameData::Type:0x00000197f6170950>",
+  "ROCK": "#<GameData::Type:0x00000197f61704c8>",
+  "BUG": "#<GameData::Type:0x00000197f61720e8>",
+  "GHOST": "#<GameData::Type:0x00000197f617bd00>",
+  "STEEL": "#<GameData::Type:0x00000197f617baa8>",
+  "QMARKS": "#<GameData::Type:0x00000197f617b5a8>",
+  "FIRE": "#<GameData::Type:0x00000197f617b3a0>",
+  "WATER": "#<GameData::Type:0x00000197f61788d0>",
+  "GRASS": "#<GameData::Type:0x00000197f6183cf8>",
+  "ELECTRIC": "#<GameData::Type:0x00000197f6183960>",
+  "PSYCHIC": "#<GameData::Type:0x00000197f6183640>",
+  "ICE": "#<GameData::Type:0x00000197f6183140>",
+  "DRAGON": "#<GameData::Type:0x00000197f6182c90>",
+  "DARK": "#<GameData::Type:0x00000197f6182560>",
+  "FAIRY": "#<GameData::Type:0x00000197f6181a20>"
+}

@@ -1,0 +1,6662 @@
+{
+  "MEGAHORN": {
+    "id": "MEGAHORN",
+    "real_name": "Megahorn",
+    "type": "BUG",
+    "category": 0,
+    "power": 120,
+    "accuracy": 85,
+    "pp": null
+  },
+  "ATTACKORDER": {
+    "id": "ATTACKORDER",
+    "real_name": "Attack Order",
+    "type": "BUG",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BUGBUZZ": {
+    "id": "BUGBUZZ",
+    "real_name": "Bug Buzz",
+    "type": "BUG",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FIRSTIMPRESSION": {
+    "id": "FIRSTIMPRESSION",
+    "real_name": "First Impression",
+    "type": "BUG",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "POLLENPUFF": {
+    "id": "POLLENPUFF",
+    "real_name": "Pollen Puff",
+    "type": "BUG",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LEECHLIFE": {
+    "id": "LEECHLIFE",
+    "real_name": "Leech Life",
+    "type": "BUG",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LUNGE": {
+    "id": "LUNGE",
+    "real_name": "Lunge",
+    "type": "BUG",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "XSCISSOR": {
+    "id": "XSCISSOR",
+    "real_name": "X-Scissor",
+    "type": "BUG",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SIGNALBEAM": {
+    "id": "SIGNALBEAM",
+    "real_name": "Signal Beam",
+    "type": "BUG",
+    "category": 1,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SKITTERSMACK": {
+    "id": "SKITTERSMACK",
+    "real_name": "Skitter Smack",
+    "type": "BUG",
+    "category": 0,
+    "power": 70,
+    "accuracy": 90,
+    "pp": null
+  },
+  "UTURN": {
+    "id": "UTURN",
+    "real_name": "U-turn",
+    "type": "BUG",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "STEAMROLLER": {
+    "id": "STEAMROLLER",
+    "real_name": "Steamroller",
+    "type": "BUG",
+    "category": 0,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BUGBITE": {
+    "id": "BUGBITE",
+    "real_name": "Bug Bite",
+    "type": "BUG",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SILVERWIND": {
+    "id": "SILVERWIND",
+    "real_name": "Silver Wind",
+    "type": "BUG",
+    "category": 1,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FELLSTINGER": {
+    "id": "FELLSTINGER",
+    "real_name": "Fell Stinger",
+    "type": "BUG",
+    "category": 0,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "STRUGGLEBUG": {
+    "id": "STRUGGLEBUG",
+    "real_name": "Struggle Bug",
+    "type": "BUG",
+    "category": 1,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FURYCUTTER": {
+    "id": "FURYCUTTER",
+    "real_name": "Fury Cutter",
+    "type": "BUG",
+    "category": 0,
+    "power": 40,
+    "accuracy": 95,
+    "pp": null
+  },
+  "PINMISSILE": {
+    "id": "PINMISSILE",
+    "real_name": "Pin Missile",
+    "type": "BUG",
+    "category": 0,
+    "power": 25,
+    "accuracy": 95,
+    "pp": null
+  },
+  "TWINEEDLE": {
+    "id": "TWINEEDLE",
+    "real_name": "Twineedle",
+    "type": "BUG",
+    "category": 0,
+    "power": 25,
+    "accuracy": 100,
+    "pp": null
+  },
+  "INFESTATION": {
+    "id": "INFESTATION",
+    "real_name": "Infestation",
+    "type": "BUG",
+    "category": 1,
+    "power": 20,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DEFENDORDER": {
+    "id": "DEFENDORDER",
+    "real_name": "Defend Order",
+    "type": "BUG",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HEALORDER": {
+    "id": "HEALORDER",
+    "real_name": "Heal Order",
+    "type": "BUG",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "POWDER": {
+    "id": "POWDER",
+    "real_name": "Powder",
+    "type": "BUG",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "QUIVERDANCE": {
+    "id": "QUIVERDANCE",
+    "real_name": "Quiver Dance",
+    "type": "BUG",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "RAGEPOWDER": {
+    "id": "RAGEPOWDER",
+    "real_name": "Rage Powder",
+    "type": "BUG",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SPIDERWEB": {
+    "id": "SPIDERWEB",
+    "real_name": "Spider Web",
+    "type": "BUG",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "STICKYWEB": {
+    "id": "STICKYWEB",
+    "real_name": "Sticky Web",
+    "type": "BUG",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "STRINGSHOT": {
+    "id": "STRINGSHOT",
+    "real_name": "String Shot",
+    "type": "BUG",
+    "category": 2,
+    "power": 0,
+    "accuracy": 95,
+    "pp": null
+  },
+  "TAILGLOW": {
+    "id": "TAILGLOW",
+    "real_name": "Tail Glow",
+    "type": "BUG",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HYPERSPACEFURY": {
+    "id": "HYPERSPACEFURY",
+    "real_name": "Hyperspace Fury",
+    "type": "DARK",
+    "category": 0,
+    "power": 100,
+    "accuracy": 0,
+    "pp": null
+  },
+  "FOULPLAY": {
+    "id": "FOULPLAY",
+    "real_name": "Foul Play",
+    "type": "DARK",
+    "category": 0,
+    "power": 95,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FIERYWRATH": {
+    "id": "FIERYWRATH",
+    "real_name": "Fiery Wrath",
+    "type": "DARK",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DARKESTLARIAT": {
+    "id": "DARKESTLARIAT",
+    "real_name": "Darkest Lariat",
+    "type": "DARK",
+    "category": 0,
+    "power": 85,
+    "accuracy": 100,
+    "pp": null
+  },
+  "NIGHTDAZE": {
+    "id": "NIGHTDAZE",
+    "real_name": "Night Daze",
+    "type": "DARK",
+    "category": 1,
+    "power": 85,
+    "accuracy": 95,
+    "pp": null
+  },
+  "CRUNCH": {
+    "id": "CRUNCH",
+    "real_name": "Crunch",
+    "type": "DARK",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DARKPULSE": {
+    "id": "DARKPULSE",
+    "real_name": "Dark Pulse",
+    "type": "DARK",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FALSESURRENDER": {
+    "id": "FALSESURRENDER",
+    "real_name": "False Surrender",
+    "type": "DARK",
+    "category": 0,
+    "power": 80,
+    "accuracy": 0,
+    "pp": null
+  },
+  "JAWLOCK": {
+    "id": "JAWLOCK",
+    "real_name": "Jaw Lock",
+    "type": "DARK",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "THROATCHOP": {
+    "id": "THROATCHOP",
+    "real_name": "Throat Chop",
+    "type": "DARK",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WICKEDBLOW": {
+    "id": "WICKEDBLOW",
+    "real_name": "Wicked Blow",
+    "type": "DARK",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LASHOUT": {
+    "id": "LASHOUT",
+    "real_name": "Lash Out",
+    "type": "DARK",
+    "category": 0,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "NIGHTSLASH": {
+    "id": "NIGHTSLASH",
+    "real_name": "Night Slash",
+    "type": "DARK",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SUCKERPUNCH": {
+    "id": "SUCKERPUNCH",
+    "real_name": "Sucker Punch",
+    "type": "DARK",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "KNOCKOFF": {
+    "id": "KNOCKOFF",
+    "real_name": "Knock Off",
+    "type": "DARK",
+    "category": 0,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ASSURANCE": {
+    "id": "ASSURANCE",
+    "real_name": "Assurance",
+    "type": "DARK",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BITE": {
+    "id": "BITE",
+    "real_name": "Bite",
+    "type": "DARK",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BRUTALSWING": {
+    "id": "BRUTALSWING",
+    "real_name": "Brutal Swing",
+    "type": "DARK",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FEINTATTACK": {
+    "id": "FEINTATTACK",
+    "real_name": "Feint Attack",
+    "type": "DARK",
+    "category": 0,
+    "power": 60,
+    "accuracy": 0,
+    "pp": null
+  },
+  "THIEF": {
+    "id": "THIEF",
+    "real_name": "Thief",
+    "type": "DARK",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SNARL": {
+    "id": "SNARL",
+    "real_name": "Snarl",
+    "type": "DARK",
+    "category": 1,
+    "power": 55,
+    "accuracy": 95,
+    "pp": null
+  },
+  "PAYBACK": {
+    "id": "PAYBACK",
+    "real_name": "Payback",
+    "type": "DARK",
+    "category": 0,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PURSUIT": {
+    "id": "PURSUIT",
+    "real_name": "Pursuit",
+    "type": "DARK",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BEATUP": {
+    "id": "BEATUP",
+    "real_name": "Beat Up",
+    "type": "DARK",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FLING": {
+    "id": "FLING",
+    "real_name": "Fling",
+    "type": "DARK",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "POWERTRIP": {
+    "id": "POWERTRIP",
+    "real_name": "Power Trip",
+    "type": "DARK",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PUNISHMENT": {
+    "id": "PUNISHMENT",
+    "real_name": "Punishment",
+    "type": "DARK",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DARKVOID": {
+    "id": "DARKVOID",
+    "real_name": "Dark Void",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 50,
+    "pp": null
+  },
+  "EMBARGO": {
+    "id": "EMBARGO",
+    "real_name": "Embargo",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FAKETEARS": {
+    "id": "FAKETEARS",
+    "real_name": "Fake Tears",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FLATTER": {
+    "id": "FLATTER",
+    "real_name": "Flatter",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HONECLAWS": {
+    "id": "HONECLAWS",
+    "real_name": "Hone Claws",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MEMENTO": {
+    "id": "MEMENTO",
+    "real_name": "Memento",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "NASTYPLOT": {
+    "id": "NASTYPLOT",
+    "real_name": "Nasty Plot",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "OBSTRUCT": {
+    "id": "OBSTRUCT",
+    "real_name": "Obstruct",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "PARTINGSHOT": {
+    "id": "PARTINGSHOT",
+    "real_name": "Parting Shot",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "QUASH": {
+    "id": "QUASH",
+    "real_name": "Quash",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SNATCH": {
+    "id": "SNATCH",
+    "real_name": "Snatch",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SWITCHEROO": {
+    "id": "SWITCHEROO",
+    "real_name": "Switcheroo",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TAUNT": {
+    "id": "TAUNT",
+    "real_name": "Taunt",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TOPSYTURVY": {
+    "id": "TOPSYTURVY",
+    "real_name": "Topsy-Turvy",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "TORMENT": {
+    "id": "TORMENT",
+    "real_name": "Torment",
+    "type": "DARK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ETERNABEAM": {
+    "id": "ETERNABEAM",
+    "real_name": "Eternabeam",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 160,
+    "accuracy": 90,
+    "pp": null
+  },
+  "DRAGONENERGY": {
+    "id": "DRAGONENERGY",
+    "real_name": "Dragon Energy",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 150,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ROAROFTIME": {
+    "id": "ROAROFTIME",
+    "real_name": "Roar of Time",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 150,
+    "accuracy": 90,
+    "pp": null
+  },
+  "DRACOMETEOR": {
+    "id": "DRACOMETEOR",
+    "real_name": "Draco Meteor",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 130,
+    "accuracy": 90,
+    "pp": null
+  },
+  "OUTRAGE": {
+    "id": "OUTRAGE",
+    "real_name": "Outrage",
+    "type": "DRAGON",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CLANGINGSCALES": {
+    "id": "CLANGINGSCALES",
+    "real_name": "Clanging Scales",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 110,
+    "accuracy": 100,
+    "pp": null
+  },
+  "COREENFORCER": {
+    "id": "COREENFORCER",
+    "real_name": "Core Enforcer",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DRAGONRUSH": {
+    "id": "DRAGONRUSH",
+    "real_name": "Dragon Rush",
+    "type": "DRAGON",
+    "category": 0,
+    "power": 100,
+    "accuracy": 75,
+    "pp": null
+  },
+  "DYNAMAXCANNON": {
+    "id": "DYNAMAXCANNON",
+    "real_name": "Dynamax Cannon",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SPACIALREND": {
+    "id": "SPACIALREND",
+    "real_name": "Spacial Rend",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 100,
+    "accuracy": 95,
+    "pp": null
+  },
+  "DRAGONHAMMER": {
+    "id": "DRAGONHAMMER",
+    "real_name": "Dragon Hammer",
+    "type": "DRAGON",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DRAGONPULSE": {
+    "id": "DRAGONPULSE",
+    "real_name": "Dragon Pulse",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 85,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DRAGONCLAW": {
+    "id": "DRAGONCLAW",
+    "real_name": "Dragon Claw",
+    "type": "DRAGON",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BREAKINGSWIPE": {
+    "id": "BREAKINGSWIPE",
+    "real_name": "Breaking Swipe",
+    "type": "DRAGON",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DRAGONBREATH": {
+    "id": "DRAGONBREATH",
+    "real_name": "Dragon Breath",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DRAGONTAIL": {
+    "id": "DRAGONTAIL",
+    "real_name": "Dragon Tail",
+    "type": "DRAGON",
+    "category": 0,
+    "power": 60,
+    "accuracy": 90,
+    "pp": null
+  },
+  "DRAGONDARTS": {
+    "id": "DRAGONDARTS",
+    "real_name": "Dragon Darts",
+    "type": "DRAGON",
+    "category": 0,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DUALCHOP": {
+    "id": "DUALCHOP",
+    "real_name": "Dual Chop",
+    "type": "DRAGON",
+    "category": 0,
+    "power": 40,
+    "accuracy": 90,
+    "pp": null
+  },
+  "TWISTER": {
+    "id": "TWISTER",
+    "real_name": "Twister",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SCALESHOT": {
+    "id": "SCALESHOT",
+    "real_name": "Scale Shot",
+    "type": "DRAGON",
+    "category": 0,
+    "power": 25,
+    "accuracy": 90,
+    "pp": null
+  },
+  "DRAGONRAGE": {
+    "id": "DRAGONRAGE",
+    "real_name": "Dragon Rage",
+    "type": "DRAGON",
+    "category": 1,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CLANGOROUSSOUL": {
+    "id": "CLANGOROUSSOUL",
+    "real_name": "Clangorous Soul",
+    "type": "DRAGON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "DRAGONDANCE": {
+    "id": "DRAGONDANCE",
+    "real_name": "Dragon Dance",
+    "type": "DRAGON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "BOLTSTRIKE": {
+    "id": "BOLTSTRIKE",
+    "real_name": "Bolt Strike",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 130,
+    "accuracy": 85,
+    "pp": null
+  },
+  "VOLTTACKLE": {
+    "id": "VOLTTACKLE",
+    "real_name": "Volt Tackle",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ZAPCANNON": {
+    "id": "ZAPCANNON",
+    "real_name": "Zap Cannon",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 120,
+    "accuracy": 50,
+    "pp": null
+  },
+  "AURAWHEEL": {
+    "id": "AURAWHEEL",
+    "real_name": "Aura Wheel",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 110,
+    "accuracy": 100,
+    "pp": null
+  },
+  "THUNDER": {
+    "id": "THUNDER",
+    "real_name": "Thunder",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 110,
+    "accuracy": 70,
+    "pp": null
+  },
+  "FUSIONBOLT": {
+    "id": "FUSIONBOLT",
+    "real_name": "Fusion Bolt",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PLASMAFISTS": {
+    "id": "PLASMAFISTS",
+    "real_name": "Plasma Fists",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "THUNDERBOLT": {
+    "id": "THUNDERBOLT",
+    "real_name": "Thunderbolt",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WILDCHARGE": {
+    "id": "WILDCHARGE",
+    "real_name": "Wild Charge",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BOLTBEAK": {
+    "id": "BOLTBEAK",
+    "real_name": "Bolt Beak",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 85,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DISCHARGE": {
+    "id": "DISCHARGE",
+    "real_name": "Discharge",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "OVERDRIVE": {
+    "id": "OVERDRIVE",
+    "real_name": "Overdrive",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "THUNDERCAGE": {
+    "id": "THUNDERCAGE",
+    "real_name": "Thunder Cage",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 80,
+    "accuracy": 90,
+    "pp": null
+  },
+  "ZINGZAP": {
+    "id": "ZINGZAP",
+    "real_name": "Zing Zap",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "THUNDERPUNCH": {
+    "id": "THUNDERPUNCH",
+    "real_name": "Thunder Punch",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "RISINGVOLTAGE": {
+    "id": "RISINGVOLTAGE",
+    "real_name": "Rising Voltage",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "VOLTSWITCH": {
+    "id": "VOLTSWITCH",
+    "real_name": "Volt Switch",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PARABOLICCHARGE": {
+    "id": "PARABOLICCHARGE",
+    "real_name": "Parabolic Charge",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SPARK": {
+    "id": "SPARK",
+    "real_name": "Spark",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "THUNDERFANG": {
+    "id": "THUNDERFANG",
+    "real_name": "Thunder Fang",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 65,
+    "accuracy": 95,
+    "pp": null
+  },
+  "SHOCKWAVE": {
+    "id": "SHOCKWAVE",
+    "real_name": "Shock Wave",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 60,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ELECTROWEB": {
+    "id": "ELECTROWEB",
+    "real_name": "Electroweb",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 55,
+    "accuracy": 95,
+    "pp": null
+  },
+  "CHARGEBEAM": {
+    "id": "CHARGEBEAM",
+    "real_name": "Charge Beam",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 50,
+    "accuracy": 90,
+    "pp": null
+  },
+  "THUNDERSHOCK": {
+    "id": "THUNDERSHOCK",
+    "real_name": "Thunder Shock",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "NUZZLE": {
+    "id": "NUZZLE",
+    "real_name": "Nuzzle",
+    "type": "ELECTRIC",
+    "category": 0,
+    "power": 20,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ELECTROBALL": {
+    "id": "ELECTROBALL",
+    "real_name": "Electro Ball",
+    "type": "ELECTRIC",
+    "category": 1,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CHARGE": {
+    "id": "CHARGE",
+    "real_name": "Charge",
+    "type": "ELECTRIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "EERIEIMPULSE": {
+    "id": "EERIEIMPULSE",
+    "real_name": "Eerie Impulse",
+    "type": "ELECTRIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ELECTRICTERRAIN": {
+    "id": "ELECTRICTERRAIN",
+    "real_name": "Electric Terrain",
+    "type": "ELECTRIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ELECTRIFY": {
+    "id": "ELECTRIFY",
+    "real_name": "Electrify",
+    "type": "ELECTRIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "IONDELUGE": {
+    "id": "IONDELUGE",
+    "real_name": "Ion Deluge",
+    "type": "ELECTRIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MAGNETRISE": {
+    "id": "MAGNETRISE",
+    "real_name": "Magnet Rise",
+    "type": "ELECTRIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MAGNETICFLUX": {
+    "id": "MAGNETICFLUX",
+    "real_name": "Magnetic Flux",
+    "type": "ELECTRIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "THUNDERWAVE": {
+    "id": "THUNDERWAVE",
+    "real_name": "Thunder Wave",
+    "type": "ELECTRIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 90,
+    "pp": null
+  },
+  "LIGHTOFRUIN": {
+    "id": "LIGHTOFRUIN",
+    "real_name": "Light of Ruin",
+    "type": "FAIRY",
+    "category": 1,
+    "power": 140,
+    "accuracy": 90,
+    "pp": null
+  },
+  "FLEURCANNON": {
+    "id": "FLEURCANNON",
+    "real_name": "Fleur Cannon",
+    "type": "FAIRY",
+    "category": 1,
+    "power": 130,
+    "accuracy": 90,
+    "pp": null
+  },
+  "MISTYEXPLOSION": {
+    "id": "MISTYEXPLOSION",
+    "real_name": "Misty Explosion",
+    "type": "FAIRY",
+    "category": 1,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MOONBLAST": {
+    "id": "MOONBLAST",
+    "real_name": "Moonblast",
+    "type": "FAIRY",
+    "category": 1,
+    "power": 95,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PLAYROUGH": {
+    "id": "PLAYROUGH",
+    "real_name": "Play Rough",
+    "type": "FAIRY",
+    "category": 0,
+    "power": 90,
+    "accuracy": 90,
+    "pp": null
+  },
+  "STRANGESTEAM": {
+    "id": "STRANGESTEAM",
+    "real_name": "Strange Steam",
+    "type": "FAIRY",
+    "category": 1,
+    "power": 90,
+    "accuracy": 95,
+    "pp": null
+  },
+  "DAZZLINGGLEAM": {
+    "id": "DAZZLINGGLEAM",
+    "real_name": "Dazzling Gleam",
+    "type": "FAIRY",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SPIRITBREAK": {
+    "id": "SPIRITBREAK",
+    "real_name": "Spirit Break",
+    "type": "FAIRY",
+    "category": 0,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DRAININGKISS": {
+    "id": "DRAININGKISS",
+    "real_name": "Draining Kiss",
+    "type": "FAIRY",
+    "category": 1,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DISARMINGVOICE": {
+    "id": "DISARMINGVOICE",
+    "real_name": "Disarming Voice",
+    "type": "FAIRY",
+    "category": 1,
+    "power": 40,
+    "accuracy": 0,
+    "pp": null
+  },
+  "FAIRYWIND": {
+    "id": "FAIRYWIND",
+    "real_name": "Fairy Wind",
+    "type": "FAIRY",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "NATURESMADNESS": {
+    "id": "NATURESMADNESS",
+    "real_name": "Nature's Madness",
+    "type": "FAIRY",
+    "category": 1,
+    "power": 1,
+    "accuracy": 90,
+    "pp": null
+  },
+  "AROMATICMIST": {
+    "id": "AROMATICMIST",
+    "real_name": "Aromatic Mist",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "BABYDOLLEYES": {
+    "id": "BABYDOLLEYES",
+    "real_name": "Baby-Doll Eyes",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CHARM": {
+    "id": "CHARM",
+    "real_name": "Charm",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CRAFTYSHIELD": {
+    "id": "CRAFTYSHIELD",
+    "real_name": "Crafty Shield",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "DECORATE": {
+    "id": "DECORATE",
+    "real_name": "Decorate",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "FAIRYLOCK": {
+    "id": "FAIRYLOCK",
+    "real_name": "Fairy Lock",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "FLORALHEALING": {
+    "id": "FLORALHEALING",
+    "real_name": "Floral Healing",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "FLOWERSHIELD": {
+    "id": "FLOWERSHIELD",
+    "real_name": "Flower Shield",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "GEOMANCY": {
+    "id": "GEOMANCY",
+    "real_name": "Geomancy",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MISTYTERRAIN": {
+    "id": "MISTYTERRAIN",
+    "real_name": "Misty Terrain",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MOONLIGHT": {
+    "id": "MOONLIGHT",
+    "real_name": "Moonlight",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SWEETKISS": {
+    "id": "SWEETKISS",
+    "real_name": "Sweet Kiss",
+    "type": "FAIRY",
+    "category": 2,
+    "power": 0,
+    "accuracy": 75,
+    "pp": null
+  },
+  "FOCUSPUNCH": {
+    "id": "FOCUSPUNCH",
+    "real_name": "Focus Punch",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 150,
+    "accuracy": 100,
+    "pp": null
+  },
+  "METEORASSAULT": {
+    "id": "METEORASSAULT",
+    "real_name": "Meteor Assault",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 150,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HIGHJUMPKICK": {
+    "id": "HIGHJUMPKICK",
+    "real_name": "High Jump Kick",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 130,
+    "accuracy": 90,
+    "pp": null
+  },
+  "CLOSECOMBAT": {
+    "id": "CLOSECOMBAT",
+    "real_name": "Close Combat",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FOCUSBLAST": {
+    "id": "FOCUSBLAST",
+    "real_name": "Focus Blast",
+    "type": "FIGHTING",
+    "category": 1,
+    "power": 120,
+    "accuracy": 70,
+    "pp": null
+  },
+  "SUPERPOWER": {
+    "id": "SUPERPOWER",
+    "real_name": "Superpower",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CROSSCHOP": {
+    "id": "CROSSCHOP",
+    "real_name": "Cross Chop",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 100,
+    "accuracy": 80,
+    "pp": null
+  },
+  "DYNAMICPUNCH": {
+    "id": "DYNAMICPUNCH",
+    "real_name": "Dynamic Punch",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 100,
+    "accuracy": 50,
+    "pp": null
+  },
+  "FLYINGPRESS": {
+    "id": "FLYINGPRESS",
+    "real_name": "Flying Press",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 100,
+    "accuracy": 95,
+    "pp": null
+  },
+  "HAMMERARM": {
+    "id": "HAMMERARM",
+    "real_name": "Hammer Arm",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 100,
+    "accuracy": 90,
+    "pp": null
+  },
+  "JUMPKICK": {
+    "id": "JUMPKICK",
+    "real_name": "Jump Kick",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 100,
+    "accuracy": 95,
+    "pp": null
+  },
+  "SACREDSWORD": {
+    "id": "SACREDSWORD",
+    "real_name": "Sacred Sword",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "THUNDEROUSKICK": {
+    "id": "THUNDEROUSKICK",
+    "real_name": "Thunderous Kick",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SECRETSWORD": {
+    "id": "SECRETSWORD",
+    "real_name": "Secret Sword",
+    "type": "FIGHTING",
+    "category": 1,
+    "power": 85,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SKYUPPERCUT": {
+    "id": "SKYUPPERCUT",
+    "real_name": "Sky Uppercut",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 85,
+    "accuracy": 90,
+    "pp": null
+  },
+  "AURASPHERE": {
+    "id": "AURASPHERE",
+    "real_name": "Aura Sphere",
+    "type": "FIGHTING",
+    "category": 1,
+    "power": 80,
+    "accuracy": 0,
+    "pp": null
+  },
+  "BODYPRESS": {
+    "id": "BODYPRESS",
+    "real_name": "Body Press",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SUBMISSION": {
+    "id": "SUBMISSION",
+    "real_name": "Submission",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 80,
+    "accuracy": 80,
+    "pp": null
+  },
+  "BRICKBREAK": {
+    "id": "BRICKBREAK",
+    "real_name": "Brick Break",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DRAINPUNCH": {
+    "id": "DRAINPUNCH",
+    "real_name": "Drain Punch",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "VITALTHROW": {
+    "id": "VITALTHROW",
+    "real_name": "Vital Throw",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 70,
+    "accuracy": 0,
+    "pp": null
+  },
+  "WAKEUPSLAP": {
+    "id": "WAKEUPSLAP",
+    "real_name": "Wake-Up Slap",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LOWSWEEP": {
+    "id": "LOWSWEEP",
+    "real_name": "Low Sweep",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CIRCLETHROW": {
+    "id": "CIRCLETHROW",
+    "real_name": "Circle Throw",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 60,
+    "accuracy": 90,
+    "pp": null
+  },
+  "FORCEPALM": {
+    "id": "FORCEPALM",
+    "real_name": "Force Palm",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "REVENGE": {
+    "id": "REVENGE",
+    "real_name": "Revenge",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ROLLINGKICK": {
+    "id": "ROLLINGKICK",
+    "real_name": "Rolling Kick",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 60,
+    "accuracy": 85,
+    "pp": null
+  },
+  "STORMTHROW": {
+    "id": "STORMTHROW",
+    "real_name": "Storm Throw",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "KARATECHOP": {
+    "id": "KARATECHOP",
+    "real_name": "Karate Chop",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MACHPUNCH": {
+    "id": "MACHPUNCH",
+    "real_name": "Mach Punch",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "POWERUPPUNCH": {
+    "id": "POWERUPPUNCH",
+    "real_name": "Power-Up Punch",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ROCKSMASH": {
+    "id": "ROCKSMASH",
+    "real_name": "Rock Smash",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "VACUUMWAVE": {
+    "id": "VACUUMWAVE",
+    "real_name": "Vacuum Wave",
+    "type": "FIGHTING",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DOUBLEKICK": {
+    "id": "DOUBLEKICK",
+    "real_name": "Double Kick",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 30,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ARMTHRUST": {
+    "id": "ARMTHRUST",
+    "real_name": "Arm Thrust",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 15,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TRIPLEKICK": {
+    "id": "TRIPLEKICK",
+    "real_name": "Triple Kick",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 10,
+    "accuracy": 90,
+    "pp": null
+  },
+  "COUNTER": {
+    "id": "COUNTER",
+    "real_name": "Counter",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FINALGAMBIT": {
+    "id": "FINALGAMBIT",
+    "real_name": "Final Gambit",
+    "type": "FIGHTING",
+    "category": 1,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LOWKICK": {
+    "id": "LOWKICK",
+    "real_name": "Low Kick",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "REVERSAL": {
+    "id": "REVERSAL",
+    "real_name": "Reversal",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SEISMICTOSS": {
+    "id": "SEISMICTOSS",
+    "real_name": "Seismic Toss",
+    "type": "FIGHTING",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BULKUP": {
+    "id": "BULKUP",
+    "real_name": "Bulk Up",
+    "type": "FIGHTING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "COACHING": {
+    "id": "COACHING",
+    "real_name": "Coaching",
+    "type": "FIGHTING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "DETECT": {
+    "id": "DETECT",
+    "real_name": "Detect",
+    "type": "FIGHTING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MATBLOCK": {
+    "id": "MATBLOCK",
+    "real_name": "Mat Block",
+    "type": "FIGHTING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "NORETREAT": {
+    "id": "NORETREAT",
+    "real_name": "No Retreat",
+    "type": "FIGHTING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "OCTOLOCK": {
+    "id": "OCTOLOCK",
+    "real_name": "Octolock",
+    "type": "FIGHTING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "QUICKGUARD": {
+    "id": "QUICKGUARD",
+    "real_name": "Quick Guard",
+    "type": "FIGHTING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "VCREATE": {
+    "id": "VCREATE",
+    "real_name": "V-create",
+    "type": "FIRE",
+    "category": 0,
+    "power": 180,
+    "accuracy": 95,
+    "pp": null
+  },
+  "BLASTBURN": {
+    "id": "BLASTBURN",
+    "real_name": "Blast Burn",
+    "type": "FIRE",
+    "category": 1,
+    "power": 150,
+    "accuracy": 90,
+    "pp": null
+  },
+  "ERUPTION": {
+    "id": "ERUPTION",
+    "real_name": "Eruption",
+    "type": "FIRE",
+    "category": 1,
+    "power": 150,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MINDBLOWN": {
+    "id": "MINDBLOWN",
+    "real_name": "Mind Blown",
+    "type": "FIRE",
+    "category": 1,
+    "power": 150,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SHELLTRAP": {
+    "id": "SHELLTRAP",
+    "real_name": "Shell Trap",
+    "type": "FIRE",
+    "category": 1,
+    "power": 150,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BLUEFLARE": {
+    "id": "BLUEFLARE",
+    "real_name": "Blue Flare",
+    "type": "FIRE",
+    "category": 1,
+    "power": 130,
+    "accuracy": 85,
+    "pp": null
+  },
+  "BURNUP": {
+    "id": "BURNUP",
+    "real_name": "Burn Up",
+    "type": "FIRE",
+    "category": 1,
+    "power": 130,
+    "accuracy": 100,
+    "pp": null
+  },
+  "OVERHEAT": {
+    "id": "OVERHEAT",
+    "real_name": "Overheat",
+    "type": "FIRE",
+    "category": 1,
+    "power": 130,
+    "accuracy": 90,
+    "pp": null
+  },
+  "FLAREBLITZ": {
+    "id": "FLAREBLITZ",
+    "real_name": "Flare Blitz",
+    "type": "FIRE",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PYROBALL": {
+    "id": "PYROBALL",
+    "real_name": "Pyro Ball",
+    "type": "FIRE",
+    "category": 0,
+    "power": 120,
+    "accuracy": 90,
+    "pp": null
+  },
+  "FIREBLAST": {
+    "id": "FIREBLAST",
+    "real_name": "Fire Blast",
+    "type": "FIRE",
+    "category": 1,
+    "power": 110,
+    "accuracy": 85,
+    "pp": null
+  },
+  "FUSIONFLARE": {
+    "id": "FUSIONFLARE",
+    "real_name": "Fusion Flare",
+    "type": "FIRE",
+    "category": 1,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "INFERNO": {
+    "id": "INFERNO",
+    "real_name": "Inferno",
+    "type": "FIRE",
+    "category": 1,
+    "power": 100,
+    "accuracy": 50,
+    "pp": null
+  },
+  "MAGMASTORM": {
+    "id": "MAGMASTORM",
+    "real_name": "Magma Storm",
+    "type": "FIRE",
+    "category": 1,
+    "power": 100,
+    "accuracy": 75,
+    "pp": null
+  },
+  "SACREDFIRE": {
+    "id": "SACREDFIRE",
+    "real_name": "Sacred Fire",
+    "type": "FIRE",
+    "category": 0,
+    "power": 100,
+    "accuracy": 95,
+    "pp": null
+  },
+  "SEARINGSHOT": {
+    "id": "SEARINGSHOT",
+    "real_name": "Searing Shot",
+    "type": "FIRE",
+    "category": 1,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HEATWAVE": {
+    "id": "HEATWAVE",
+    "real_name": "Heat Wave",
+    "type": "FIRE",
+    "category": 1,
+    "power": 95,
+    "accuracy": 90,
+    "pp": null
+  },
+  "FLAMETHROWER": {
+    "id": "FLAMETHROWER",
+    "real_name": "Flamethrower",
+    "type": "FIRE",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BLAZEKICK": {
+    "id": "BLAZEKICK",
+    "real_name": "Blaze Kick",
+    "type": "FIRE",
+    "category": 0,
+    "power": 85,
+    "accuracy": 90,
+    "pp": null
+  },
+  "FIERYDANCE": {
+    "id": "FIERYDANCE",
+    "real_name": "Fiery Dance",
+    "type": "FIRE",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FIRELASH": {
+    "id": "FIRELASH",
+    "real_name": "Fire Lash",
+    "type": "FIRE",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FIREPLEDGE": {
+    "id": "FIREPLEDGE",
+    "real_name": "Fire Pledge",
+    "type": "FIRE",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LAVAPLUME": {
+    "id": "LAVAPLUME",
+    "real_name": "Lava Plume",
+    "type": "FIRE",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FIREPUNCH": {
+    "id": "FIREPUNCH",
+    "real_name": "Fire Punch",
+    "type": "FIRE",
+    "category": 0,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MYSTICALFIRE": {
+    "id": "MYSTICALFIRE",
+    "real_name": "Mystical Fire",
+    "type": "FIRE",
+    "category": 1,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BURNINGJEALOUSY": {
+    "id": "BURNINGJEALOUSY",
+    "real_name": "Burning Jealousy",
+    "type": "FIRE",
+    "category": 1,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FLAMEBURST": {
+    "id": "FLAMEBURST",
+    "real_name": "Flame Burst",
+    "type": "FIRE",
+    "category": 1,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FIREFANG": {
+    "id": "FIREFANG",
+    "real_name": "Fire Fang",
+    "type": "FIRE",
+    "category": 0,
+    "power": 65,
+    "accuracy": 95,
+    "pp": null
+  },
+  "FLAMEWHEEL": {
+    "id": "FLAMEWHEEL",
+    "real_name": "Flame Wheel",
+    "type": "FIRE",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "INCINERATE": {
+    "id": "INCINERATE",
+    "real_name": "Incinerate",
+    "type": "FIRE",
+    "category": 1,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FLAMECHARGE": {
+    "id": "FLAMECHARGE",
+    "real_name": "Flame Charge",
+    "type": "FIRE",
+    "category": 0,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "EMBER": {
+    "id": "EMBER",
+    "real_name": "Ember",
+    "type": "FIRE",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FIRESPIN": {
+    "id": "FIRESPIN",
+    "real_name": "Fire Spin",
+    "type": "FIRE",
+    "category": 1,
+    "power": 35,
+    "accuracy": 85,
+    "pp": null
+  },
+  "HEATCRASH": {
+    "id": "HEATCRASH",
+    "real_name": "Heat Crash",
+    "type": "FIRE",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SUNNYDAY": {
+    "id": "SUNNYDAY",
+    "real_name": "Sunny Day",
+    "type": "FIRE",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "WILLOWISP": {
+    "id": "WILLOWISP",
+    "real_name": "Will-O-Wisp",
+    "type": "FIRE",
+    "category": 2,
+    "power": 0,
+    "accuracy": 85,
+    "pp": null
+  },
+  "SKYATTACK": {
+    "id": "SKYATTACK",
+    "real_name": "Sky Attack",
+    "type": "FLYING",
+    "category": 0,
+    "power": 140,
+    "accuracy": 90,
+    "pp": null
+  },
+  "BRAVEBIRD": {
+    "id": "BRAVEBIRD",
+    "real_name": "Brave Bird",
+    "type": "FLYING",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DRAGONASCENT": {
+    "id": "DRAGONASCENT",
+    "real_name": "Dragon Ascent",
+    "type": "FLYING",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HURRICANE": {
+    "id": "HURRICANE",
+    "real_name": "Hurricane",
+    "type": "FLYING",
+    "category": 1,
+    "power": 110,
+    "accuracy": 70,
+    "pp": null
+  },
+  "AEROBLAST": {
+    "id": "AEROBLAST",
+    "real_name": "Aeroblast",
+    "type": "FLYING",
+    "category": 1,
+    "power": 100,
+    "accuracy": 95,
+    "pp": null
+  },
+  "BEAKBLAST": {
+    "id": "BEAKBLAST",
+    "real_name": "Beak Blast",
+    "type": "FLYING",
+    "category": 0,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FLY": {
+    "id": "FLY",
+    "real_name": "Fly",
+    "type": "FLYING",
+    "category": 0,
+    "power": 90,
+    "accuracy": 95,
+    "pp": null
+  },
+  "BOUNCE": {
+    "id": "BOUNCE",
+    "real_name": "Bounce",
+    "type": "FLYING",
+    "category": 0,
+    "power": 85,
+    "accuracy": 85,
+    "pp": null
+  },
+  "DRILLPECK": {
+    "id": "DRILLPECK",
+    "real_name": "Drill Peck",
+    "type": "FLYING",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "OBLIVIONWING": {
+    "id": "OBLIVIONWING",
+    "real_name": "Oblivion Wing",
+    "type": "FLYING",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "AIRSLASH": {
+    "id": "AIRSLASH",
+    "real_name": "Air Slash",
+    "type": "FLYING",
+    "category": 1,
+    "power": 75,
+    "accuracy": 95,
+    "pp": null
+  },
+  "CHATTER": {
+    "id": "CHATTER",
+    "real_name": "Chatter",
+    "type": "FLYING",
+    "category": 1,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "AERIALACE": {
+    "id": "AERIALACE",
+    "real_name": "Aerial Ace",
+    "type": "FLYING",
+    "category": 0,
+    "power": 60,
+    "accuracy": 0,
+    "pp": null
+  },
+  "AIRCUTTER": {
+    "id": "AIRCUTTER",
+    "real_name": "Air Cutter",
+    "type": "FLYING",
+    "category": 1,
+    "power": 60,
+    "accuracy": 95,
+    "pp": null
+  },
+  "PLUCK": {
+    "id": "PLUCK",
+    "real_name": "Pluck",
+    "type": "FLYING",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SKYDROP": {
+    "id": "SKYDROP",
+    "real_name": "Sky Drop",
+    "type": "FLYING",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WINGATTACK": {
+    "id": "WINGATTACK",
+    "real_name": "Wing Attack",
+    "type": "FLYING",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ACROBATICS": {
+    "id": "ACROBATICS",
+    "real_name": "Acrobatics",
+    "type": "FLYING",
+    "category": 0,
+    "power": 55,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DUALWINGBEAT": {
+    "id": "DUALWINGBEAT",
+    "real_name": "Dual Wingbeat",
+    "type": "FLYING",
+    "category": 0,
+    "power": 40,
+    "accuracy": 90,
+    "pp": null
+  },
+  "GUST": {
+    "id": "GUST",
+    "real_name": "Gust",
+    "type": "FLYING",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PECK": {
+    "id": "PECK",
+    "real_name": "Peck",
+    "type": "FLYING",
+    "category": 0,
+    "power": 35,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DEFOG": {
+    "id": "DEFOG",
+    "real_name": "Defog",
+    "type": "FLYING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "FEATHERDANCE": {
+    "id": "FEATHERDANCE",
+    "real_name": "Feather Dance",
+    "type": "FLYING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MIRRORMOVE": {
+    "id": "MIRRORMOVE",
+    "real_name": "Mirror Move",
+    "type": "FLYING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ROOST": {
+    "id": "ROOST",
+    "real_name": "Roost",
+    "type": "FLYING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "TAILWIND": {
+    "id": "TAILWIND",
+    "real_name": "Tailwind",
+    "type": "FLYING",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ASTRALBARRAGE": {
+    "id": "ASTRALBARRAGE",
+    "real_name": "Astral Barrage",
+    "type": "GHOST",
+    "category": 1,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SHADOWFORCE": {
+    "id": "SHADOWFORCE",
+    "real_name": "Shadow Force",
+    "type": "GHOST",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "POLTERGEIST": {
+    "id": "POLTERGEIST",
+    "real_name": "Poltergeist",
+    "type": "GHOST",
+    "category": 0,
+    "power": 110,
+    "accuracy": 90,
+    "pp": null
+  },
+  "MOONGEISTBEAM": {
+    "id": "MOONGEISTBEAM",
+    "real_name": "Moongeist Beam",
+    "type": "GHOST",
+    "category": 1,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PHANTOMFORCE": {
+    "id": "PHANTOMFORCE",
+    "real_name": "Phantom Force",
+    "type": "GHOST",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SPECTRALTHIEF": {
+    "id": "SPECTRALTHIEF",
+    "real_name": "Spectral Thief",
+    "type": "GHOST",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SHADOWBONE": {
+    "id": "SHADOWBONE",
+    "real_name": "Shadow Bone",
+    "type": "GHOST",
+    "category": 0,
+    "power": 85,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SHADOWBALL": {
+    "id": "SHADOWBALL",
+    "real_name": "Shadow Ball",
+    "type": "GHOST",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SPIRITSHACKLE": {
+    "id": "SPIRITSHACKLE",
+    "real_name": "Spirit Shackle",
+    "type": "GHOST",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SHADOWCLAW": {
+    "id": "SHADOWCLAW",
+    "real_name": "Shadow Claw",
+    "type": "GHOST",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HEX": {
+    "id": "HEX",
+    "real_name": "Hex",
+    "type": "GHOST",
+    "category": 1,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "OMINOUSWIND": {
+    "id": "OMINOUSWIND",
+    "real_name": "Ominous Wind",
+    "type": "GHOST",
+    "category": 1,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SHADOWPUNCH": {
+    "id": "SHADOWPUNCH",
+    "real_name": "Shadow Punch",
+    "type": "GHOST",
+    "category": 0,
+    "power": 60,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SHADOWSNEAK": {
+    "id": "SHADOWSNEAK",
+    "real_name": "Shadow Sneak",
+    "type": "GHOST",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ASTONISH": {
+    "id": "ASTONISH",
+    "real_name": "Astonish",
+    "type": "GHOST",
+    "category": 0,
+    "power": 30,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LICK": {
+    "id": "LICK",
+    "real_name": "Lick",
+    "type": "GHOST",
+    "category": 0,
+    "power": 30,
+    "accuracy": 100,
+    "pp": null
+  },
+  "NIGHTSHADE": {
+    "id": "NIGHTSHADE",
+    "real_name": "Night Shade",
+    "type": "GHOST",
+    "category": 1,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CONFUSERAY": {
+    "id": "CONFUSERAY",
+    "real_name": "Confuse Ray",
+    "type": "GHOST",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CURSE": {
+    "id": "CURSE",
+    "real_name": "Curse",
+    "type": "GHOST",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "DESTINYBOND": {
+    "id": "DESTINYBOND",
+    "real_name": "Destiny Bond",
+    "type": "GHOST",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "GRUDGE": {
+    "id": "GRUDGE",
+    "real_name": "Grudge",
+    "type": "GHOST",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "NIGHTMARE": {
+    "id": "NIGHTMARE",
+    "real_name": "Nightmare",
+    "type": "GHOST",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SPITE": {
+    "id": "SPITE",
+    "real_name": "Spite",
+    "type": "GHOST",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TRICKORTREAT": {
+    "id": "TRICKORTREAT",
+    "real_name": "Trick-or-Treat",
+    "type": "GHOST",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FRENZYPLANT": {
+    "id": "FRENZYPLANT",
+    "real_name": "Frenzy Plant",
+    "type": "GRASS",
+    "category": 1,
+    "power": 150,
+    "accuracy": 90,
+    "pp": null
+  },
+  "LEAFSTORM": {
+    "id": "LEAFSTORM",
+    "real_name": "Leaf Storm",
+    "type": "GRASS",
+    "category": 1,
+    "power": 130,
+    "accuracy": 90,
+    "pp": null
+  },
+  "SOLARBLADE": {
+    "id": "SOLARBLADE",
+    "real_name": "Solar Blade",
+    "type": "GRASS",
+    "category": 0,
+    "power": 125,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PETALDANCE": {
+    "id": "PETALDANCE",
+    "real_name": "Petal Dance",
+    "type": "GRASS",
+    "category": 1,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "POWERWHIP": {
+    "id": "POWERWHIP",
+    "real_name": "Power Whip",
+    "type": "GRASS",
+    "category": 0,
+    "power": 120,
+    "accuracy": 85,
+    "pp": null
+  },
+  "SEEDFLARE": {
+    "id": "SEEDFLARE",
+    "real_name": "Seed Flare",
+    "type": "GRASS",
+    "category": 1,
+    "power": 120,
+    "accuracy": 85,
+    "pp": null
+  },
+  "SOLARBEAM": {
+    "id": "SOLARBEAM",
+    "real_name": "Solar Beam",
+    "type": "GRASS",
+    "category": 1,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WOODHAMMER": {
+    "id": "WOODHAMMER",
+    "real_name": "Wood Hammer",
+    "type": "GRASS",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ENERGYBALL": {
+    "id": "ENERGYBALL",
+    "real_name": "Energy Ball",
+    "type": "GRASS",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LEAFBLADE": {
+    "id": "LEAFBLADE",
+    "real_name": "Leaf Blade",
+    "type": "GRASS",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PETALBLIZZARD": {
+    "id": "PETALBLIZZARD",
+    "real_name": "Petal Blizzard",
+    "type": "GRASS",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "APPLEACID": {
+    "id": "APPLEACID",
+    "real_name": "Apple Acid",
+    "type": "GRASS",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DRUMBEATING": {
+    "id": "DRUMBEATING",
+    "real_name": "Drum Beating",
+    "type": "GRASS",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GRASSPLEDGE": {
+    "id": "GRASSPLEDGE",
+    "real_name": "Grass Pledge",
+    "type": "GRASS",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GRAVAPPLE": {
+    "id": "GRAVAPPLE",
+    "real_name": "Grav Apple",
+    "type": "GRASS",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SEEDBOMB": {
+    "id": "SEEDBOMB",
+    "real_name": "Seed Bomb",
+    "type": "GRASS",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GIGADRAIN": {
+    "id": "GIGADRAIN",
+    "real_name": "Giga Drain",
+    "type": "GRASS",
+    "category": 1,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HORNLEECH": {
+    "id": "HORNLEECH",
+    "real_name": "Horn Leech",
+    "type": "GRASS",
+    "category": 0,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GRASSYGLIDE": {
+    "id": "GRASSYGLIDE",
+    "real_name": "Grassy Glide",
+    "type": "GRASS",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TROPKICK": {
+    "id": "TROPKICK",
+    "real_name": "Trop Kick",
+    "type": "GRASS",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LEAFTORNADO": {
+    "id": "LEAFTORNADO",
+    "real_name": "Leaf Tornado",
+    "type": "GRASS",
+    "category": 1,
+    "power": 65,
+    "accuracy": 90,
+    "pp": null
+  },
+  "MAGICALLEAF": {
+    "id": "MAGICALLEAF",
+    "real_name": "Magical Leaf",
+    "type": "GRASS",
+    "category": 1,
+    "power": 60,
+    "accuracy": 0,
+    "pp": null
+  },
+  "NEEDLEARM": {
+    "id": "NEEDLEARM",
+    "real_name": "Needle Arm",
+    "type": "GRASS",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "RAZORLEAF": {
+    "id": "RAZORLEAF",
+    "real_name": "Razor Leaf",
+    "type": "GRASS",
+    "category": 0,
+    "power": 55,
+    "accuracy": 95,
+    "pp": null
+  },
+  "VINEWHIP": {
+    "id": "VINEWHIP",
+    "real_name": "Vine Whip",
+    "type": "GRASS",
+    "category": 0,
+    "power": 45,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BRANCHPOKE": {
+    "id": "BRANCHPOKE",
+    "real_name": "Branch Poke",
+    "type": "GRASS",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LEAFAGE": {
+    "id": "LEAFAGE",
+    "real_name": "Leafage",
+    "type": "GRASS",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MEGADRAIN": {
+    "id": "MEGADRAIN",
+    "real_name": "Mega Drain",
+    "type": "GRASS",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SNAPTRAP": {
+    "id": "SNAPTRAP",
+    "real_name": "Snap Trap",
+    "type": "GRASS",
+    "category": 0,
+    "power": 35,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BULLETSEED": {
+    "id": "BULLETSEED",
+    "real_name": "Bullet Seed",
+    "type": "GRASS",
+    "category": 0,
+    "power": 25,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ABSORB": {
+    "id": "ABSORB",
+    "real_name": "Absorb",
+    "type": "GRASS",
+    "category": 1,
+    "power": 20,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GRASSKNOT": {
+    "id": "GRASSKNOT",
+    "real_name": "Grass Knot",
+    "type": "GRASS",
+    "category": 1,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "AROMATHERAPY": {
+    "id": "AROMATHERAPY",
+    "real_name": "Aromatherapy",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "COTTONGUARD": {
+    "id": "COTTONGUARD",
+    "real_name": "Cotton Guard",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "COTTONSPORE": {
+    "id": "COTTONSPORE",
+    "real_name": "Cotton Spore",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FORESTSCURSE": {
+    "id": "FORESTSCURSE",
+    "real_name": "Forest's Curse",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GRASSWHISTLE": {
+    "id": "GRASSWHISTLE",
+    "real_name": "Grass Whistle",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 55,
+    "pp": null
+  },
+  "GRASSYTERRAIN": {
+    "id": "GRASSYTERRAIN",
+    "real_name": "Grassy Terrain",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "INGRAIN": {
+    "id": "INGRAIN",
+    "real_name": "Ingrain",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "JUNGLEHEALING": {
+    "id": "JUNGLEHEALING",
+    "real_name": "Jungle Healing",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "LEECHSEED": {
+    "id": "LEECHSEED",
+    "real_name": "Leech Seed",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 90,
+    "pp": null
+  },
+  "SLEEPPOWDER": {
+    "id": "SLEEPPOWDER",
+    "real_name": "Sleep Powder",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 75,
+    "pp": null
+  },
+  "SPIKYSHIELD": {
+    "id": "SPIKYSHIELD",
+    "real_name": "Spiky Shield",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SPORE": {
+    "id": "SPORE",
+    "real_name": "Spore",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "STRENGTHSAP": {
+    "id": "STRENGTHSAP",
+    "real_name": "Strength Sap",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "STUNSPORE": {
+    "id": "STUNSPORE",
+    "real_name": "Stun Spore",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 75,
+    "pp": null
+  },
+  "SYNTHESIS": {
+    "id": "SYNTHESIS",
+    "real_name": "Synthesis",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "WORRYSEED": {
+    "id": "WORRYSEED",
+    "real_name": "Worry Seed",
+    "type": "GRASS",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PRECIPICEBLADES": {
+    "id": "PRECIPICEBLADES",
+    "real_name": "Precipice Blades",
+    "type": "GROUND",
+    "category": 0,
+    "power": 120,
+    "accuracy": 85,
+    "pp": null
+  },
+  "EARTHQUAKE": {
+    "id": "EARTHQUAKE",
+    "real_name": "Earthquake",
+    "type": "GROUND",
+    "category": 0,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HIGHHORSEPOWER": {
+    "id": "HIGHHORSEPOWER",
+    "real_name": "High Horsepower",
+    "type": "GROUND",
+    "category": 0,
+    "power": 95,
+    "accuracy": 95,
+    "pp": null
+  },
+  "EARTHPOWER": {
+    "id": "EARTHPOWER",
+    "real_name": "Earth Power",
+    "type": "GROUND",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LANDSWRATH": {
+    "id": "LANDSWRATH",
+    "real_name": "Land's Wrath",
+    "type": "GROUND",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "THOUSANDARROWS": {
+    "id": "THOUSANDARROWS",
+    "real_name": "Thousand Arrows",
+    "type": "GROUND",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "THOUSANDWAVES": {
+    "id": "THOUSANDWAVES",
+    "real_name": "Thousand Waves",
+    "type": "GROUND",
+    "category": 0,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DIG": {
+    "id": "DIG",
+    "real_name": "Dig",
+    "type": "GROUND",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DRILLRUN": {
+    "id": "DRILLRUN",
+    "real_name": "Drill Run",
+    "type": "GROUND",
+    "category": 0,
+    "power": 80,
+    "accuracy": 95,
+    "pp": null
+  },
+  "STOMPINGTANTRUM": {
+    "id": "STOMPINGTANTRUM",
+    "real_name": "Stomping Tantrum",
+    "type": "GROUND",
+    "category": 0,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SCORCHINGSANDS": {
+    "id": "SCORCHINGSANDS",
+    "real_name": "Scorching Sands",
+    "type": "GROUND",
+    "category": 1,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BONECLUB": {
+    "id": "BONECLUB",
+    "real_name": "Bone Club",
+    "type": "GROUND",
+    "category": 0,
+    "power": 65,
+    "accuracy": 85,
+    "pp": null
+  },
+  "MUDBOMB": {
+    "id": "MUDBOMB",
+    "real_name": "Mud Bomb",
+    "type": "GROUND",
+    "category": 1,
+    "power": 65,
+    "accuracy": 85,
+    "pp": null
+  },
+  "BULLDOZE": {
+    "id": "BULLDOZE",
+    "real_name": "Bulldoze",
+    "type": "GROUND",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MUDSHOT": {
+    "id": "MUDSHOT",
+    "real_name": "Mud Shot",
+    "type": "GROUND",
+    "category": 1,
+    "power": 55,
+    "accuracy": 95,
+    "pp": null
+  },
+  "BONEMERANG": {
+    "id": "BONEMERANG",
+    "real_name": "Bonemerang",
+    "type": "GROUND",
+    "category": 0,
+    "power": 50,
+    "accuracy": 90,
+    "pp": null
+  },
+  "SANDTOMB": {
+    "id": "SANDTOMB",
+    "real_name": "Sand Tomb",
+    "type": "GROUND",
+    "category": 0,
+    "power": 35,
+    "accuracy": 85,
+    "pp": null
+  },
+  "BONERUSH": {
+    "id": "BONERUSH",
+    "real_name": "Bone Rush",
+    "type": "GROUND",
+    "category": 0,
+    "power": 25,
+    "accuracy": 90,
+    "pp": null
+  },
+  "MUDSLAP": {
+    "id": "MUDSLAP",
+    "real_name": "Mud-Slap",
+    "type": "GROUND",
+    "category": 1,
+    "power": 20,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FISSURE": {
+    "id": "FISSURE",
+    "real_name": "Fissure",
+    "type": "GROUND",
+    "category": 0,
+    "power": 1,
+    "accuracy": 30,
+    "pp": null
+  },
+  "MAGNITUDE": {
+    "id": "MAGNITUDE",
+    "real_name": "Magnitude",
+    "type": "GROUND",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MUDSPORT": {
+    "id": "MUDSPORT",
+    "real_name": "Mud Sport",
+    "type": "GROUND",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ROTOTILLER": {
+    "id": "ROTOTILLER",
+    "real_name": "Rototiller",
+    "type": "GROUND",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SANDATTACK": {
+    "id": "SANDATTACK",
+    "real_name": "Sand Attack",
+    "type": "GROUND",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SHOREUP": {
+    "id": "SHOREUP",
+    "real_name": "Shore Up",
+    "type": "GROUND",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SPIKES": {
+    "id": "SPIKES",
+    "real_name": "Spikes",
+    "type": "GROUND",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "FREEZESHOCK": {
+    "id": "FREEZESHOCK",
+    "real_name": "Freeze Shock",
+    "type": "ICE",
+    "category": 0,
+    "power": 140,
+    "accuracy": 90,
+    "pp": null
+  },
+  "ICEBURN": {
+    "id": "ICEBURN",
+    "real_name": "Ice Burn",
+    "type": "ICE",
+    "category": 1,
+    "power": 140,
+    "accuracy": 90,
+    "pp": null
+  },
+  "GLACIALLANCE": {
+    "id": "GLACIALLANCE",
+    "real_name": "Glacial Lance",
+    "type": "ICE",
+    "category": 0,
+    "power": 130,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BLIZZARD": {
+    "id": "BLIZZARD",
+    "real_name": "Blizzard",
+    "type": "ICE",
+    "category": 1,
+    "power": 110,
+    "accuracy": 70,
+    "pp": null
+  },
+  "ICEHAMMER": {
+    "id": "ICEHAMMER",
+    "real_name": "Ice Hammer",
+    "type": "ICE",
+    "category": 0,
+    "power": 100,
+    "accuracy": 90,
+    "pp": null
+  },
+  "ICEBEAM": {
+    "id": "ICEBEAM",
+    "real_name": "Ice Beam",
+    "type": "ICE",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ICICLECRASH": {
+    "id": "ICICLECRASH",
+    "real_name": "Icicle Crash",
+    "type": "ICE",
+    "category": 0,
+    "power": 85,
+    "accuracy": 90,
+    "pp": null
+  },
+  "ICEPUNCH": {
+    "id": "ICEPUNCH",
+    "real_name": "Ice Punch",
+    "type": "ICE",
+    "category": 0,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FREEZEDRY": {
+    "id": "FREEZEDRY",
+    "real_name": "Freeze-Dry",
+    "type": "ICE",
+    "category": 1,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "AURORABEAM": {
+    "id": "AURORABEAM",
+    "real_name": "Aurora Beam",
+    "type": "ICE",
+    "category": 1,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GLACIATE": {
+    "id": "GLACIATE",
+    "real_name": "Glaciate",
+    "type": "ICE",
+    "category": 1,
+    "power": 65,
+    "accuracy": 95,
+    "pp": null
+  },
+  "ICEFANG": {
+    "id": "ICEFANG",
+    "real_name": "Ice Fang",
+    "type": "ICE",
+    "category": 0,
+    "power": 65,
+    "accuracy": 95,
+    "pp": null
+  },
+  "AVALANCHE": {
+    "id": "AVALANCHE",
+    "real_name": "Avalanche",
+    "type": "ICE",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FROSTBREATH": {
+    "id": "FROSTBREATH",
+    "real_name": "Frost Breath",
+    "type": "ICE",
+    "category": 1,
+    "power": 60,
+    "accuracy": 90,
+    "pp": null
+  },
+  "ICYWIND": {
+    "id": "ICYWIND",
+    "real_name": "Icy Wind",
+    "type": "ICE",
+    "category": 1,
+    "power": 55,
+    "accuracy": 95,
+    "pp": null
+  },
+  "ICESHARD": {
+    "id": "ICESHARD",
+    "real_name": "Ice Shard",
+    "type": "ICE",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "POWDERSNOW": {
+    "id": "POWDERSNOW",
+    "real_name": "Powder Snow",
+    "type": "ICE",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ICEBALL": {
+    "id": "ICEBALL",
+    "real_name": "Ice Ball",
+    "type": "ICE",
+    "category": 0,
+    "power": 30,
+    "accuracy": 90,
+    "pp": null
+  },
+  "ICICLESPEAR": {
+    "id": "ICICLESPEAR",
+    "real_name": "Icicle Spear",
+    "type": "ICE",
+    "category": 0,
+    "power": 25,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TRIPLEAXEL": {
+    "id": "TRIPLEAXEL",
+    "real_name": "Triple Axel",
+    "type": "ICE",
+    "category": 0,
+    "power": 20,
+    "accuracy": 90,
+    "pp": null
+  },
+  "SHEERCOLD": {
+    "id": "SHEERCOLD",
+    "real_name": "Sheer Cold",
+    "type": "ICE",
+    "category": 1,
+    "power": 1,
+    "accuracy": 30,
+    "pp": null
+  },
+  "AURORAVEIL": {
+    "id": "AURORAVEIL",
+    "real_name": "Aurora Veil",
+    "type": "ICE",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HAIL": {
+    "id": "HAIL",
+    "real_name": "Hail",
+    "type": "ICE",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HAZE": {
+    "id": "HAZE",
+    "real_name": "Haze",
+    "type": "ICE",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MIST": {
+    "id": "MIST",
+    "real_name": "Mist",
+    "type": "ICE",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "EXPLOSION": {
+    "id": "EXPLOSION",
+    "real_name": "Explosion",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 250,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SELFDESTRUCT": {
+    "id": "SELFDESTRUCT",
+    "real_name": "Self-Destruct",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 200,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GIGAIMPACT": {
+    "id": "GIGAIMPACT",
+    "real_name": "Giga Impact",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 150,
+    "accuracy": 90,
+    "pp": null
+  },
+  "HYPERBEAM": {
+    "id": "HYPERBEAM",
+    "real_name": "Hyper Beam",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 150,
+    "accuracy": 90,
+    "pp": null
+  },
+  "BOOMBURST": {
+    "id": "BOOMBURST",
+    "real_name": "Boomburst",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 140,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LASTRESORT": {
+    "id": "LASTRESORT",
+    "real_name": "Last Resort",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 140,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SKULLBASH": {
+    "id": "SKULLBASH",
+    "real_name": "Skull Bash",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 130,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DOUBLEEDGE": {
+    "id": "DOUBLEEDGE",
+    "real_name": "Double-Edge",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HEADCHARGE": {
+    "id": "HEADCHARGE",
+    "real_name": "Head Charge",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MEGAKICK": {
+    "id": "MEGAKICK",
+    "real_name": "Mega Kick",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 120,
+    "accuracy": 75,
+    "pp": null
+  },
+  "MULTIATTACK": {
+    "id": "MULTIATTACK",
+    "real_name": "Multi-Attack",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TECHNOBLAST": {
+    "id": "TECHNOBLAST",
+    "real_name": "Techno Blast",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "THRASH": {
+    "id": "THRASH",
+    "real_name": "Thrash",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "EGGBOMB": {
+    "id": "EGGBOMB",
+    "real_name": "Egg Bomb",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 100,
+    "accuracy": 75,
+    "pp": null
+  },
+  "JUDGMENT": {
+    "id": "JUDGMENT",
+    "real_name": "Judgment",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HYPERVOICE": {
+    "id": "HYPERVOICE",
+    "real_name": "Hyper Voice",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "REVELATIONDANCE": {
+    "id": "REVELATIONDANCE",
+    "real_name": "Revelation Dance",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ROCKCLIMB": {
+    "id": "ROCKCLIMB",
+    "real_name": "Rock Climb",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 90,
+    "accuracy": 85,
+    "pp": null
+  },
+  "TAKEDOWN": {
+    "id": "TAKEDOWN",
+    "real_name": "Take Down",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 90,
+    "accuracy": 85,
+    "pp": null
+  },
+  "UPROAR": {
+    "id": "UPROAR",
+    "real_name": "Uproar",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BODYSLAM": {
+    "id": "BODYSLAM",
+    "real_name": "Body Slam",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 85,
+    "accuracy": 100,
+    "pp": null
+  },
+  "EXTREMESPEED": {
+    "id": "EXTREMESPEED",
+    "real_name": "Extreme Speed",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HYPERFANG": {
+    "id": "HYPERFANG",
+    "real_name": "Hyper Fang",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 80,
+    "accuracy": 90,
+    "pp": null
+  },
+  "MEGAPUNCH": {
+    "id": "MEGAPUNCH",
+    "real_name": "Mega Punch",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 80,
+    "accuracy": 85,
+    "pp": null
+  },
+  "RAZORWIND": {
+    "id": "RAZORWIND",
+    "real_name": "Razor Wind",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SLAM": {
+    "id": "SLAM",
+    "real_name": "Slam",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 80,
+    "accuracy": 75,
+    "pp": null
+  },
+  "STRENGTH": {
+    "id": "STRENGTH",
+    "real_name": "Strength",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TRIATTACK": {
+    "id": "TRIATTACK",
+    "real_name": "Tri Attack",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CRUSHCLAW": {
+    "id": "CRUSHCLAW",
+    "real_name": "Crush Claw",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 75,
+    "accuracy": 95,
+    "pp": null
+  },
+  "RELICSONG": {
+    "id": "RELICSONG",
+    "real_name": "Relic Song",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 75,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CHIPAWAY": {
+    "id": "CHIPAWAY",
+    "real_name": "Chip Away",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DIZZYPUNCH": {
+    "id": "DIZZYPUNCH",
+    "real_name": "Dizzy Punch",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FACADE": {
+    "id": "FACADE",
+    "real_name": "Facade",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HEADBUTT": {
+    "id": "HEADBUTT",
+    "real_name": "Headbutt",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "RETALIATE": {
+    "id": "RETALIATE",
+    "real_name": "Retaliate",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SECRETPOWER": {
+    "id": "SECRETPOWER",
+    "real_name": "Secret Power",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SLASH": {
+    "id": "SLASH",
+    "real_name": "Slash",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SMELLINGSALTS": {
+    "id": "SMELLINGSALTS",
+    "real_name": "Smelling Salts",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HORNATTACK": {
+    "id": "HORNATTACK",
+    "real_name": "Horn Attack",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "STOMP": {
+    "id": "STOMP",
+    "real_name": "Stomp",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "COVET": {
+    "id": "COVET",
+    "real_name": "Covet",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HIDDENPOWER": {
+    "id": "HIDDENPOWER",
+    "real_name": "Hidden Power",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ROUND": {
+    "id": "ROUND",
+    "real_name": "Round",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SWIFT": {
+    "id": "SWIFT",
+    "real_name": "Swift",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 60,
+    "accuracy": 0,
+    "pp": null
+  },
+  "VISEGRIP": {
+    "id": "VISEGRIP",
+    "real_name": "Vise Grip",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 55,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CUT": {
+    "id": "CUT",
+    "real_name": "Cut",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 50,
+    "accuracy": 95,
+    "pp": null
+  },
+  "RAPIDSPIN": {
+    "id": "RAPIDSPIN",
+    "real_name": "Rapid Spin",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SNORE": {
+    "id": "SNORE",
+    "real_name": "Snore",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TERRAINPULSE": {
+    "id": "TERRAINPULSE",
+    "real_name": "Terrain Pulse",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WEATHERBALL": {
+    "id": "WEATHERBALL",
+    "real_name": "Weather Ball",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ECHOEDVOICE": {
+    "id": "ECHOEDVOICE",
+    "real_name": "Echoed Voice",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FAKEOUT": {
+    "id": "FAKEOUT",
+    "real_name": "Fake Out",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FALSESWIPE": {
+    "id": "FALSESWIPE",
+    "real_name": "False Swipe",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HOLDBACK": {
+    "id": "HOLDBACK",
+    "real_name": "Hold Back",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PAYDAY": {
+    "id": "PAYDAY",
+    "real_name": "Pay Day",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "POUND": {
+    "id": "POUND",
+    "real_name": "Pound",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "QUICKATTACK": {
+    "id": "QUICKATTACK",
+    "real_name": "Quick Attack",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SCRATCH": {
+    "id": "SCRATCH",
+    "real_name": "Scratch",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TACKLE": {
+    "id": "TACKLE",
+    "real_name": "Tackle",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DOUBLEHIT": {
+    "id": "DOUBLEHIT",
+    "real_name": "Double Hit",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 35,
+    "accuracy": 90,
+    "pp": null
+  },
+  "FEINT": {
+    "id": "FEINT",
+    "real_name": "Feint",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 30,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TAILSLAP": {
+    "id": "TAILSLAP",
+    "real_name": "Tail Slap",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 25,
+    "accuracy": 85,
+    "pp": null
+  },
+  "RAGE": {
+    "id": "RAGE",
+    "real_name": "Rage",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 20,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SPIKECANNON": {
+    "id": "SPIKECANNON",
+    "real_name": "Spike Cannon",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 20,
+    "accuracy": 100,
+    "pp": null
+  },
+  "COMETPUNCH": {
+    "id": "COMETPUNCH",
+    "real_name": "Comet Punch",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 18,
+    "accuracy": 85,
+    "pp": null
+  },
+  "FURYSWIPES": {
+    "id": "FURYSWIPES",
+    "real_name": "Fury Swipes",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 18,
+    "accuracy": 80,
+    "pp": null
+  },
+  "BARRAGE": {
+    "id": "BARRAGE",
+    "real_name": "Barrage",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 15,
+    "accuracy": 85,
+    "pp": null
+  },
+  "BIND": {
+    "id": "BIND",
+    "real_name": "Bind",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 15,
+    "accuracy": 85,
+    "pp": null
+  },
+  "DOUBLESLAP": {
+    "id": "DOUBLESLAP",
+    "real_name": "Double Slap",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 15,
+    "accuracy": 85,
+    "pp": null
+  },
+  "FURYATTACK": {
+    "id": "FURYATTACK",
+    "real_name": "Fury Attack",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 15,
+    "accuracy": 85,
+    "pp": null
+  },
+  "WRAP": {
+    "id": "WRAP",
+    "real_name": "Wrap",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 15,
+    "accuracy": 90,
+    "pp": null
+  },
+  "CONSTRICT": {
+    "id": "CONSTRICT",
+    "real_name": "Constrict",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 10,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BIDE": {
+    "id": "BIDE",
+    "real_name": "Bide",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 0,
+    "pp": null
+  },
+  "CRUSHGRIP": {
+    "id": "CRUSHGRIP",
+    "real_name": "Crush Grip",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ENDEAVOR": {
+    "id": "ENDEAVOR",
+    "real_name": "Endeavor",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FLAIL": {
+    "id": "FLAIL",
+    "real_name": "Flail",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FRUSTRATION": {
+    "id": "FRUSTRATION",
+    "real_name": "Frustration",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GUILLOTINE": {
+    "id": "GUILLOTINE",
+    "real_name": "Guillotine",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 30,
+    "pp": null
+  },
+  "HORNDRILL": {
+    "id": "HORNDRILL",
+    "real_name": "Horn Drill",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 30,
+    "pp": null
+  },
+  "NATURALGIFT": {
+    "id": "NATURALGIFT",
+    "real_name": "Natural Gift",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PRESENT": {
+    "id": "PRESENT",
+    "real_name": "Present",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 90,
+    "pp": null
+  },
+  "RETURN": {
+    "id": "RETURN",
+    "real_name": "Return",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SONICBOOM": {
+    "id": "SONICBOOM",
+    "real_name": "Sonic Boom",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 1,
+    "accuracy": 90,
+    "pp": null
+  },
+  "SPITUP": {
+    "id": "SPITUP",
+    "real_name": "Spit Up",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SUPERFANG": {
+    "id": "SUPERFANG",
+    "real_name": "Super Fang",
+    "type": "NORMAL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 90,
+    "pp": null
+  },
+  "TRUMPCARD": {
+    "id": "TRUMPCARD",
+    "real_name": "Trump Card",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 1,
+    "accuracy": 0,
+    "pp": null
+  },
+  "WRINGOUT": {
+    "id": "WRINGOUT",
+    "real_name": "Wring Out",
+    "type": "NORMAL",
+    "category": 1,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ACUPRESSURE": {
+    "id": "ACUPRESSURE",
+    "real_name": "Acupressure",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "AFTERYOU": {
+    "id": "AFTERYOU",
+    "real_name": "After You",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ASSIST": {
+    "id": "ASSIST",
+    "real_name": "Assist",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ATTRACT": {
+    "id": "ATTRACT",
+    "real_name": "Attract",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BATONPASS": {
+    "id": "BATONPASS",
+    "real_name": "Baton Pass",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "BELLYDRUM": {
+    "id": "BELLYDRUM",
+    "real_name": "Belly Drum",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "BESTOW": {
+    "id": "BESTOW",
+    "real_name": "Bestow",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "BLOCK": {
+    "id": "BLOCK",
+    "real_name": "Block",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "CAMOUFLAGE": {
+    "id": "CAMOUFLAGE",
+    "real_name": "Camouflage",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "CAPTIVATE": {
+    "id": "CAPTIVATE",
+    "real_name": "Captivate",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CELEBRATE": {
+    "id": "CELEBRATE",
+    "real_name": "Celebrate",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "CONFIDE": {
+    "id": "CONFIDE",
+    "real_name": "Confide",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "CONVERSION": {
+    "id": "CONVERSION",
+    "real_name": "Conversion",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "CONVERSION2": {
+    "id": "CONVERSION2",
+    "real_name": "Conversion 2",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "COPYCAT": {
+    "id": "COPYCAT",
+    "real_name": "Copycat",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "COURTCHANGE": {
+    "id": "COURTCHANGE",
+    "real_name": "Court Change",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "DEFENSECURL": {
+    "id": "DEFENSECURL",
+    "real_name": "Defense Curl",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "DISABLE": {
+    "id": "DISABLE",
+    "real_name": "Disable",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DOUBLETEAM": {
+    "id": "DOUBLETEAM",
+    "real_name": "Double Team",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ENCORE": {
+    "id": "ENCORE",
+    "real_name": "Encore",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ENDURE": {
+    "id": "ENDURE",
+    "real_name": "Endure",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ENTRAINMENT": {
+    "id": "ENTRAINMENT",
+    "real_name": "Entrainment",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FLASH": {
+    "id": "FLASH",
+    "real_name": "Flash",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FOCUSENERGY": {
+    "id": "FOCUSENERGY",
+    "real_name": "Focus Energy",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "FOLLOWME": {
+    "id": "FOLLOWME",
+    "real_name": "Follow Me",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "FORESIGHT": {
+    "id": "FORESIGHT",
+    "real_name": "Foresight",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "GLARE": {
+    "id": "GLARE",
+    "real_name": "Glare",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GROWL": {
+    "id": "GROWL",
+    "real_name": "Growl",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GROWTH": {
+    "id": "GROWTH",
+    "real_name": "Growth",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HAPPYHOUR": {
+    "id": "HAPPYHOUR",
+    "real_name": "Happy Hour",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HARDEN": {
+    "id": "HARDEN",
+    "real_name": "Harden",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HEALBELL": {
+    "id": "HEALBELL",
+    "real_name": "Heal Bell",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HELPINGHAND": {
+    "id": "HELPINGHAND",
+    "real_name": "Helping Hand",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HOLDHANDS": {
+    "id": "HOLDHANDS",
+    "real_name": "Hold Hands",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HOWL": {
+    "id": "HOWL",
+    "real_name": "Howl",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "LASERFOCUS": {
+    "id": "LASERFOCUS",
+    "real_name": "Laser Focus",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "LEER": {
+    "id": "LEER",
+    "real_name": "Leer",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LOCKON": {
+    "id": "LOCKON",
+    "real_name": "Lock-On",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "LOVELYKISS": {
+    "id": "LOVELYKISS",
+    "real_name": "Lovely Kiss",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 75,
+    "pp": null
+  },
+  "LUCKYCHANT": {
+    "id": "LUCKYCHANT",
+    "real_name": "Lucky Chant",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MEFIRST": {
+    "id": "MEFIRST",
+    "real_name": "Me First",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MEANLOOK": {
+    "id": "MEANLOOK",
+    "real_name": "Mean Look",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "METRONOME": {
+    "id": "METRONOME",
+    "real_name": "Metronome",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MILKDRINK": {
+    "id": "MILKDRINK",
+    "real_name": "Milk Drink",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MIMIC": {
+    "id": "MIMIC",
+    "real_name": "Mimic",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MINDREADER": {
+    "id": "MINDREADER",
+    "real_name": "Mind Reader",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MINIMIZE": {
+    "id": "MINIMIZE",
+    "real_name": "Minimize",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MORNINGSUN": {
+    "id": "MORNINGSUN",
+    "real_name": "Morning Sun",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "NATUREPOWER": {
+    "id": "NATUREPOWER",
+    "real_name": "Nature Power",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "NOBLEROAR": {
+    "id": "NOBLEROAR",
+    "real_name": "Noble Roar",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ODORSLEUTH": {
+    "id": "ODORSLEUTH",
+    "real_name": "Odor Sleuth",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "PAINSPLIT": {
+    "id": "PAINSPLIT",
+    "real_name": "Pain Split",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "PERISHSONG": {
+    "id": "PERISHSONG",
+    "real_name": "Perish Song",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "PLAYNICE": {
+    "id": "PLAYNICE",
+    "real_name": "Play Nice",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "PROTECT": {
+    "id": "PROTECT",
+    "real_name": "Protect",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "PSYCHUP": {
+    "id": "PSYCHUP",
+    "real_name": "Psych Up",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "RECOVER": {
+    "id": "RECOVER",
+    "real_name": "Recover",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "RECYCLE": {
+    "id": "RECYCLE",
+    "real_name": "Recycle",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "REFLECTTYPE": {
+    "id": "REFLECTTYPE",
+    "real_name": "Reflect Type",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "REFRESH": {
+    "id": "REFRESH",
+    "real_name": "Refresh",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ROAR": {
+    "id": "ROAR",
+    "real_name": "Roar",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SAFEGUARD": {
+    "id": "SAFEGUARD",
+    "real_name": "Safeguard",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SCARYFACE": {
+    "id": "SCARYFACE",
+    "real_name": "Scary Face",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SCREECH": {
+    "id": "SCREECH",
+    "real_name": "Screech",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 85,
+    "pp": null
+  },
+  "SHARPEN": {
+    "id": "SHARPEN",
+    "real_name": "Sharpen",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SHELLSMASH": {
+    "id": "SHELLSMASH",
+    "real_name": "Shell Smash",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SIMPLEBEAM": {
+    "id": "SIMPLEBEAM",
+    "real_name": "Simple Beam",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SING": {
+    "id": "SING",
+    "real_name": "Sing",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 55,
+    "pp": null
+  },
+  "SKETCH": {
+    "id": "SKETCH",
+    "real_name": "Sketch",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SLACKOFF": {
+    "id": "SLACKOFF",
+    "real_name": "Slack Off",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SLEEPTALK": {
+    "id": "SLEEPTALK",
+    "real_name": "Sleep Talk",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SMOKESCREEN": {
+    "id": "SMOKESCREEN",
+    "real_name": "Smokescreen",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SOFTBOILED": {
+    "id": "SOFTBOILED",
+    "real_name": "Soft-Boiled",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SPLASH": {
+    "id": "SPLASH",
+    "real_name": "Splash",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SPOTLIGHT": {
+    "id": "SPOTLIGHT",
+    "real_name": "Spotlight",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "STOCKPILE": {
+    "id": "STOCKPILE",
+    "real_name": "Stockpile",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "STUFFCHEEKS": {
+    "id": "STUFFCHEEKS",
+    "real_name": "Stuff Cheeks",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SUBSTITUTE": {
+    "id": "SUBSTITUTE",
+    "real_name": "Substitute",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SUPERSONIC": {
+    "id": "SUPERSONIC",
+    "real_name": "Supersonic",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 55,
+    "pp": null
+  },
+  "SWAGGER": {
+    "id": "SWAGGER",
+    "real_name": "Swagger",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 85,
+    "pp": null
+  },
+  "SWALLOW": {
+    "id": "SWALLOW",
+    "real_name": "Swallow",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SWEETSCENT": {
+    "id": "SWEETSCENT",
+    "real_name": "Sweet Scent",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SWORDSDANCE": {
+    "id": "SWORDSDANCE",
+    "real_name": "Swords Dance",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "TAILWHIP": {
+    "id": "TAILWHIP",
+    "real_name": "Tail Whip",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TEARFULLOOK": {
+    "id": "TEARFULLOOK",
+    "real_name": "Tearful Look",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "TEATIME": {
+    "id": "TEATIME",
+    "real_name": "Teatime",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "TEETERDANCE": {
+    "id": "TEETERDANCE",
+    "real_name": "Teeter Dance",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TICKLE": {
+    "id": "TICKLE",
+    "real_name": "Tickle",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TRANSFORM": {
+    "id": "TRANSFORM",
+    "real_name": "Transform",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "WHIRLWIND": {
+    "id": "WHIRLWIND",
+    "real_name": "Whirlwind",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "WISH": {
+    "id": "WISH",
+    "real_name": "Wish",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "WORKUP": {
+    "id": "WORKUP",
+    "real_name": "Work Up",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "YAWN": {
+    "id": "YAWN",
+    "real_name": "Yawn",
+    "type": "NORMAL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "BELCH": {
+    "id": "BELCH",
+    "real_name": "Belch",
+    "type": "POISON",
+    "category": 1,
+    "power": 120,
+    "accuracy": 90,
+    "pp": null
+  },
+  "GUNKSHOT": {
+    "id": "GUNKSHOT",
+    "real_name": "Gunk Shot",
+    "type": "POISON",
+    "category": 0,
+    "power": 120,
+    "accuracy": 80,
+    "pp": null
+  },
+  "SLUDGEWAVE": {
+    "id": "SLUDGEWAVE",
+    "real_name": "Sludge Wave",
+    "type": "POISON",
+    "category": 1,
+    "power": 95,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SHELLSIDEARM": {
+    "id": "SHELLSIDEARM",
+    "real_name": "Shell Side Arm",
+    "type": "POISON",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SLUDGEBOMB": {
+    "id": "SLUDGEBOMB",
+    "real_name": "Sludge Bomb",
+    "type": "POISON",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "POISONJAB": {
+    "id": "POISONJAB",
+    "real_name": "Poison Jab",
+    "type": "POISON",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CROSSPOISON": {
+    "id": "CROSSPOISON",
+    "real_name": "Cross Poison",
+    "type": "POISON",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SLUDGE": {
+    "id": "SLUDGE",
+    "real_name": "Sludge",
+    "type": "POISON",
+    "category": 1,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "VENOSHOCK": {
+    "id": "VENOSHOCK",
+    "real_name": "Venoshock",
+    "type": "POISON",
+    "category": 1,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CLEARSMOG": {
+    "id": "CLEARSMOG",
+    "real_name": "Clear Smog",
+    "type": "POISON",
+    "category": 1,
+    "power": 50,
+    "accuracy": 0,
+    "pp": null
+  },
+  "POISONFANG": {
+    "id": "POISONFANG",
+    "real_name": "Poison Fang",
+    "type": "POISON",
+    "category": 0,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "POISONTAIL": {
+    "id": "POISONTAIL",
+    "real_name": "Poison Tail",
+    "type": "POISON",
+    "category": 0,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ACID": {
+    "id": "ACID",
+    "real_name": "Acid",
+    "type": "POISON",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ACIDSPRAY": {
+    "id": "ACIDSPRAY",
+    "real_name": "Acid Spray",
+    "type": "POISON",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SMOG": {
+    "id": "SMOG",
+    "real_name": "Smog",
+    "type": "POISON",
+    "category": 1,
+    "power": 30,
+    "accuracy": 70,
+    "pp": null
+  },
+  "POISONSTING": {
+    "id": "POISONSTING",
+    "real_name": "Poison Sting",
+    "type": "POISON",
+    "category": 0,
+    "power": 15,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ACIDARMOR": {
+    "id": "ACIDARMOR",
+    "real_name": "Acid Armor",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "BANEFULBUNKER": {
+    "id": "BANEFULBUNKER",
+    "real_name": "Baneful Bunker",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "COIL": {
+    "id": "COIL",
+    "real_name": "Coil",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "CORROSIVEGAS": {
+    "id": "CORROSIVEGAS",
+    "real_name": "Corrosive Gas",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GASTROACID": {
+    "id": "GASTROACID",
+    "real_name": "Gastro Acid",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "POISONGAS": {
+    "id": "POISONGAS",
+    "real_name": "Poison Gas",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 90,
+    "pp": null
+  },
+  "POISONPOWDER": {
+    "id": "POISONPOWDER",
+    "real_name": "Poison Powder",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 75,
+    "pp": null
+  },
+  "PURIFY": {
+    "id": "PURIFY",
+    "real_name": "Purify",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "TOXIC": {
+    "id": "TOXIC",
+    "real_name": "Toxic",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 90,
+    "pp": null
+  },
+  "TOXICSPIKES": {
+    "id": "TOXICSPIKES",
+    "real_name": "Toxic Spikes",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "TOXICTHREAD": {
+    "id": "TOXICTHREAD",
+    "real_name": "Toxic Thread",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "VENOMDRENCH": {
+    "id": "VENOMDRENCH",
+    "real_name": "Venom Drench",
+    "type": "POISON",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PRISMATICLASER": {
+    "id": "PRISMATICLASER",
+    "real_name": "Prismatic Laser",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 160,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PSYCHOBOOST": {
+    "id": "PSYCHOBOOST",
+    "real_name": "Psycho Boost",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 140,
+    "accuracy": 90,
+    "pp": null
+  },
+  "FUTURESIGHT": {
+    "id": "FUTURESIGHT",
+    "real_name": "Future Sight",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SYNCHRONOISE": {
+    "id": "SYNCHRONOISE",
+    "real_name": "Synchronoise",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 120,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DREAMEATER": {
+    "id": "DREAMEATER",
+    "real_name": "Dream Eater",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PHOTONGEYSER": {
+    "id": "PHOTONGEYSER",
+    "real_name": "Photon Geyser",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PSYSTRIKE": {
+    "id": "PSYSTRIKE",
+    "real_name": "Psystrike",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FREEZINGGLARE": {
+    "id": "FREEZINGGLARE",
+    "real_name": "Freezing Glare",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PSYCHIC": {
+    "id": "PSYCHIC",
+    "real_name": "Psychic",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PSYCHICFANGS": {
+    "id": "PSYCHICFANGS",
+    "real_name": "Psychic Fangs",
+    "type": "PSYCHIC",
+    "category": 0,
+    "power": 85,
+    "accuracy": 100,
+    "pp": null
+  },
+  "EERIESPELL": {
+    "id": "EERIESPELL",
+    "real_name": "Eerie Spell",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "EXPANDINGFORCE": {
+    "id": "EXPANDINGFORCE",
+    "real_name": "Expanding Force",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "EXTRASENSORY": {
+    "id": "EXTRASENSORY",
+    "real_name": "Extrasensory",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HYPERSPACEHOLE": {
+    "id": "HYPERSPACEHOLE",
+    "real_name": "Hyperspace Hole",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 80,
+    "accuracy": 0,
+    "pp": null
+  },
+  "PSYSHOCK": {
+    "id": "PSYSHOCK",
+    "real_name": "Psyshock",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ZENHEADBUTT": {
+    "id": "ZENHEADBUTT",
+    "real_name": "Zen Headbutt",
+    "type": "PSYCHIC",
+    "category": 0,
+    "power": 80,
+    "accuracy": 90,
+    "pp": null
+  },
+  "LUSTERPURGE": {
+    "id": "LUSTERPURGE",
+    "real_name": "Luster Purge",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MISTBALL": {
+    "id": "MISTBALL",
+    "real_name": "Mist Ball",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PSYCHOCUT": {
+    "id": "PSYCHOCUT",
+    "real_name": "Psycho Cut",
+    "type": "PSYCHIC",
+    "category": 0,
+    "power": 70,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PSYBEAM": {
+    "id": "PSYBEAM",
+    "real_name": "Psybeam",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HEARTSTAMP": {
+    "id": "HEARTSTAMP",
+    "real_name": "Heart Stamp",
+    "type": "PSYCHIC",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CONFUSION": {
+    "id": "CONFUSION",
+    "real_name": "Confusion",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "STOREDPOWER": {
+    "id": "STOREDPOWER",
+    "real_name": "Stored Power",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 20,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MIRRORCOAT": {
+    "id": "MIRRORCOAT",
+    "real_name": "Mirror Coat",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "PSYWAVE": {
+    "id": "PSYWAVE",
+    "real_name": "Psywave",
+    "type": "PSYCHIC",
+    "category": 1,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "AGILITY": {
+    "id": "AGILITY",
+    "real_name": "Agility",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ALLYSWITCH": {
+    "id": "ALLYSWITCH",
+    "real_name": "Ally Switch",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "AMNESIA": {
+    "id": "AMNESIA",
+    "real_name": "Amnesia",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "BARRIER": {
+    "id": "BARRIER",
+    "real_name": "Barrier",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "CALMMIND": {
+    "id": "CALMMIND",
+    "real_name": "Calm Mind",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "COSMICPOWER": {
+    "id": "COSMICPOWER",
+    "real_name": "Cosmic Power",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "GRAVITY": {
+    "id": "GRAVITY",
+    "real_name": "Gravity",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "GUARDSPLIT": {
+    "id": "GUARDSPLIT",
+    "real_name": "Guard Split",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "GUARDSWAP": {
+    "id": "GUARDSWAP",
+    "real_name": "Guard Swap",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HEALBLOCK": {
+    "id": "HEALBLOCK",
+    "real_name": "Heal Block",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HEALPULSE": {
+    "id": "HEALPULSE",
+    "real_name": "Heal Pulse",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HEALINGWISH": {
+    "id": "HEALINGWISH",
+    "real_name": "Healing Wish",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HEARTSWAP": {
+    "id": "HEARTSWAP",
+    "real_name": "Heart Swap",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HYPNOSIS": {
+    "id": "HYPNOSIS",
+    "real_name": "Hypnosis",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 60,
+    "pp": null
+  },
+  "IMPRISON": {
+    "id": "IMPRISON",
+    "real_name": "Imprison",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "INSTRUCT": {
+    "id": "INSTRUCT",
+    "real_name": "Instruct",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "KINESIS": {
+    "id": "KINESIS",
+    "real_name": "Kinesis",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 80,
+    "pp": null
+  },
+  "LIGHTSCREEN": {
+    "id": "LIGHTSCREEN",
+    "real_name": "Light Screen",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "LUNARDANCE": {
+    "id": "LUNARDANCE",
+    "real_name": "Lunar Dance",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MAGICCOAT": {
+    "id": "MAGICCOAT",
+    "real_name": "Magic Coat",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MAGICPOWDER": {
+    "id": "MAGICPOWDER",
+    "real_name": "Magic Powder",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MAGICROOM": {
+    "id": "MAGICROOM",
+    "real_name": "Magic Room",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MEDITATE": {
+    "id": "MEDITATE",
+    "real_name": "Meditate",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "MIRACLEEYE": {
+    "id": "MIRACLEEYE",
+    "real_name": "Miracle Eye",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "POWERSPLIT": {
+    "id": "POWERSPLIT",
+    "real_name": "Power Split",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "POWERSWAP": {
+    "id": "POWERSWAP",
+    "real_name": "Power Swap",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "POWERTRICK": {
+    "id": "POWERTRICK",
+    "real_name": "Power Trick",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "PSYCHICTERRAIN": {
+    "id": "PSYCHICTERRAIN",
+    "real_name": "Psychic Terrain",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "PSYCHOSHIFT": {
+    "id": "PSYCHOSHIFT",
+    "real_name": "Psycho Shift",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "REFLECT": {
+    "id": "REFLECT",
+    "real_name": "Reflect",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "REST": {
+    "id": "REST",
+    "real_name": "Rest",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "ROLEPLAY": {
+    "id": "ROLEPLAY",
+    "real_name": "Role Play",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SKILLSWAP": {
+    "id": "SKILLSWAP",
+    "real_name": "Skill Swap",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SPEEDSWAP": {
+    "id": "SPEEDSWAP",
+    "real_name": "Speed Swap",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "TELEKINESIS": {
+    "id": "TELEKINESIS",
+    "real_name": "Telekinesis",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "TELEPORT": {
+    "id": "TELEPORT",
+    "real_name": "Teleport",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "TRICK": {
+    "id": "TRICK",
+    "real_name": "Trick",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "TRICKROOM": {
+    "id": "TRICKROOM",
+    "real_name": "Trick Room",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "WONDERROOM": {
+    "id": "WONDERROOM",
+    "real_name": "Wonder Room",
+    "type": "PSYCHIC",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HEADSMASH": {
+    "id": "HEADSMASH",
+    "real_name": "Head Smash",
+    "type": "ROCK",
+    "category": 0,
+    "power": 150,
+    "accuracy": 80,
+    "pp": null
+  },
+  "ROCKWRECKER": {
+    "id": "ROCKWRECKER",
+    "real_name": "Rock Wrecker",
+    "type": "ROCK",
+    "category": 0,
+    "power": 150,
+    "accuracy": 90,
+    "pp": null
+  },
+  "METEORBEAM": {
+    "id": "METEORBEAM",
+    "real_name": "Meteor Beam",
+    "type": "ROCK",
+    "category": 1,
+    "power": 120,
+    "accuracy": 90,
+    "pp": null
+  },
+  "DIAMONDSTORM": {
+    "id": "DIAMONDSTORM",
+    "real_name": "Diamond Storm",
+    "type": "ROCK",
+    "category": 0,
+    "power": 100,
+    "accuracy": 95,
+    "pp": null
+  },
+  "STONEEDGE": {
+    "id": "STONEEDGE",
+    "real_name": "Stone Edge",
+    "type": "ROCK",
+    "category": 0,
+    "power": 100,
+    "accuracy": 80,
+    "pp": null
+  },
+  "POWERGEM": {
+    "id": "POWERGEM",
+    "real_name": "Power Gem",
+    "type": "ROCK",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ROCKSLIDE": {
+    "id": "ROCKSLIDE",
+    "real_name": "Rock Slide",
+    "type": "ROCK",
+    "category": 0,
+    "power": 75,
+    "accuracy": 90,
+    "pp": null
+  },
+  "ANCIENTPOWER": {
+    "id": "ANCIENTPOWER",
+    "real_name": "Ancient Power",
+    "type": "ROCK",
+    "category": 1,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ROCKTOMB": {
+    "id": "ROCKTOMB",
+    "real_name": "Rock Tomb",
+    "type": "ROCK",
+    "category": 0,
+    "power": 60,
+    "accuracy": 95,
+    "pp": null
+  },
+  "ROCKTHROW": {
+    "id": "ROCKTHROW",
+    "real_name": "Rock Throw",
+    "type": "ROCK",
+    "category": 0,
+    "power": 50,
+    "accuracy": 90,
+    "pp": null
+  },
+  "SMACKDOWN": {
+    "id": "SMACKDOWN",
+    "real_name": "Smack Down",
+    "type": "ROCK",
+    "category": 0,
+    "power": 50,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ACCELEROCK": {
+    "id": "ACCELEROCK",
+    "real_name": "Accelerock",
+    "type": "ROCK",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "ROLLOUT": {
+    "id": "ROLLOUT",
+    "real_name": "Rollout",
+    "type": "ROCK",
+    "category": 0,
+    "power": 30,
+    "accuracy": 90,
+    "pp": null
+  },
+  "ROCKBLAST": {
+    "id": "ROCKBLAST",
+    "real_name": "Rock Blast",
+    "type": "ROCK",
+    "category": 0,
+    "power": 25,
+    "accuracy": 90,
+    "pp": null
+  },
+  "ROCKPOLISH": {
+    "id": "ROCKPOLISH",
+    "real_name": "Rock Polish",
+    "type": "ROCK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SANDSTORM": {
+    "id": "SANDSTORM",
+    "real_name": "Sandstorm",
+    "type": "ROCK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "STEALTHROCK": {
+    "id": "STEALTHROCK",
+    "real_name": "Stealth Rock",
+    "type": "ROCK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "TARSHOT": {
+    "id": "TARSHOT",
+    "real_name": "Tar Shot",
+    "type": "ROCK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WIDEGUARD": {
+    "id": "WIDEGUARD",
+    "real_name": "Wide Guard",
+    "type": "ROCK",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "DOOMDESIRE": {
+    "id": "DOOMDESIRE",
+    "real_name": "Doom Desire",
+    "type": "STEEL",
+    "category": 1,
+    "power": 140,
+    "accuracy": 100,
+    "pp": null
+  },
+  "STEELBEAM": {
+    "id": "STEELBEAM",
+    "real_name": "Steel Beam",
+    "type": "STEEL",
+    "category": 1,
+    "power": 140,
+    "accuracy": 95,
+    "pp": null
+  },
+  "STEELROLLER": {
+    "id": "STEELROLLER",
+    "real_name": "Steel Roller",
+    "type": "STEEL",
+    "category": 0,
+    "power": 130,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BEHEMOTHBASH": {
+    "id": "BEHEMOTHBASH",
+    "real_name": "Behemoth Bash",
+    "type": "STEEL",
+    "category": 0,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BEHEMOTHBLADE": {
+    "id": "BEHEMOTHBLADE",
+    "real_name": "Behemoth Blade",
+    "type": "STEEL",
+    "category": 0,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "IRONTAIL": {
+    "id": "IRONTAIL",
+    "real_name": "Iron Tail",
+    "type": "STEEL",
+    "category": 0,
+    "power": 100,
+    "accuracy": 75,
+    "pp": null
+  },
+  "SUNSTEELSTRIKE": {
+    "id": "SUNSTEELSTRIKE",
+    "real_name": "Sunsteel Strike",
+    "type": "STEEL",
+    "category": 0,
+    "power": 100,
+    "accuracy": 100,
+    "pp": null
+  },
+  "METEORMASH": {
+    "id": "METEORMASH",
+    "real_name": "Meteor Mash",
+    "type": "STEEL",
+    "category": 0,
+    "power": 90,
+    "accuracy": 90,
+    "pp": null
+  },
+  "ANCHORSHOT": {
+    "id": "ANCHORSHOT",
+    "real_name": "Anchor Shot",
+    "type": "STEEL",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FLASHCANNON": {
+    "id": "FLASHCANNON",
+    "real_name": "Flash Cannon",
+    "type": "STEEL",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "IRONHEAD": {
+    "id": "IRONHEAD",
+    "real_name": "Iron Head",
+    "type": "STEEL",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SMARTSTRIKE": {
+    "id": "SMARTSTRIKE",
+    "real_name": "Smart Strike",
+    "type": "STEEL",
+    "category": 0,
+    "power": 70,
+    "accuracy": 0,
+    "pp": null
+  },
+  "STEELWING": {
+    "id": "STEELWING",
+    "real_name": "Steel Wing",
+    "type": "STEEL",
+    "category": 0,
+    "power": 70,
+    "accuracy": 90,
+    "pp": null
+  },
+  "DOUBLEIRONBASH": {
+    "id": "DOUBLEIRONBASH",
+    "real_name": "Double Iron Bash",
+    "type": "STEEL",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "MIRRORSHOT": {
+    "id": "MIRRORSHOT",
+    "real_name": "Mirror Shot",
+    "type": "STEEL",
+    "category": 1,
+    "power": 65,
+    "accuracy": 85,
+    "pp": null
+  },
+  "MAGNETBOMB": {
+    "id": "MAGNETBOMB",
+    "real_name": "Magnet Bomb",
+    "type": "STEEL",
+    "category": 0,
+    "power": 60,
+    "accuracy": 0,
+    "pp": null
+  },
+  "GEARGRIND": {
+    "id": "GEARGRIND",
+    "real_name": "Gear Grind",
+    "type": "STEEL",
+    "category": 0,
+    "power": 50,
+    "accuracy": 85,
+    "pp": null
+  },
+  "METALCLAW": {
+    "id": "METALCLAW",
+    "real_name": "Metal Claw",
+    "type": "STEEL",
+    "category": 0,
+    "power": 50,
+    "accuracy": 95,
+    "pp": null
+  },
+  "BULLETPUNCH": {
+    "id": "BULLETPUNCH",
+    "real_name": "Bullet Punch",
+    "type": "STEEL",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "GYROBALL": {
+    "id": "GYROBALL",
+    "real_name": "Gyro Ball",
+    "type": "STEEL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HEAVYSLAM": {
+    "id": "HEAVYSLAM",
+    "real_name": "Heavy Slam",
+    "type": "STEEL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "METALBURST": {
+    "id": "METALBURST",
+    "real_name": "Metal Burst",
+    "type": "STEEL",
+    "category": 0,
+    "power": 1,
+    "accuracy": 100,
+    "pp": null
+  },
+  "AUTOTOMIZE": {
+    "id": "AUTOTOMIZE",
+    "real_name": "Autotomize",
+    "type": "STEEL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "GEARUP": {
+    "id": "GEARUP",
+    "real_name": "Gear Up",
+    "type": "STEEL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "IRONDEFENSE": {
+    "id": "IRONDEFENSE",
+    "real_name": "Iron Defense",
+    "type": "STEEL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "KINGSSHIELD": {
+    "id": "KINGSSHIELD",
+    "real_name": "King's Shield",
+    "type": "STEEL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "METALSOUND": {
+    "id": "METALSOUND",
+    "real_name": "Metal Sound",
+    "type": "STEEL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 85,
+    "pp": null
+  },
+  "SHIFTGEAR": {
+    "id": "SHIFTGEAR",
+    "real_name": "Shift Gear",
+    "type": "STEEL",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "HYDROCANNON": {
+    "id": "HYDROCANNON",
+    "real_name": "Hydro Cannon",
+    "type": "WATER",
+    "category": 1,
+    "power": 150,
+    "accuracy": 90,
+    "pp": null
+  },
+  "WATERSPOUT": {
+    "id": "WATERSPOUT",
+    "real_name": "Water Spout",
+    "type": "WATER",
+    "category": 1,
+    "power": 150,
+    "accuracy": 100,
+    "pp": null
+  },
+  "HYDROPUMP": {
+    "id": "HYDROPUMP",
+    "real_name": "Hydro Pump",
+    "type": "WATER",
+    "category": 1,
+    "power": 110,
+    "accuracy": 80,
+    "pp": null
+  },
+  "ORIGINPULSE": {
+    "id": "ORIGINPULSE",
+    "real_name": "Origin Pulse",
+    "type": "WATER",
+    "category": 1,
+    "power": 110,
+    "accuracy": 85,
+    "pp": null
+  },
+  "STEAMERUPTION": {
+    "id": "STEAMERUPTION",
+    "real_name": "Steam Eruption",
+    "type": "WATER",
+    "category": 1,
+    "power": 110,
+    "accuracy": 95,
+    "pp": null
+  },
+  "CRABHAMMER": {
+    "id": "CRABHAMMER",
+    "real_name": "Crabhammer",
+    "type": "WATER",
+    "category": 0,
+    "power": 100,
+    "accuracy": 90,
+    "pp": null
+  },
+  "AQUATAIL": {
+    "id": "AQUATAIL",
+    "real_name": "Aqua Tail",
+    "type": "WATER",
+    "category": 0,
+    "power": 90,
+    "accuracy": 90,
+    "pp": null
+  },
+  "MUDDYWATER": {
+    "id": "MUDDYWATER",
+    "real_name": "Muddy Water",
+    "type": "WATER",
+    "category": 1,
+    "power": 90,
+    "accuracy": 85,
+    "pp": null
+  },
+  "SPARKLINGARIA": {
+    "id": "SPARKLINGARIA",
+    "real_name": "Sparkling Aria",
+    "type": "WATER",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SURF": {
+    "id": "SURF",
+    "real_name": "Surf",
+    "type": "WATER",
+    "category": 1,
+    "power": 90,
+    "accuracy": 100,
+    "pp": null
+  },
+  "FISHIOUSREND": {
+    "id": "FISHIOUSREND",
+    "real_name": "Fishious Rend",
+    "type": "WATER",
+    "category": 0,
+    "power": 85,
+    "accuracy": 100,
+    "pp": null
+  },
+  "LIQUIDATION": {
+    "id": "LIQUIDATION",
+    "real_name": "Liquidation",
+    "type": "WATER",
+    "category": 0,
+    "power": 85,
+    "accuracy": 100,
+    "pp": null
+  },
+  "DIVE": {
+    "id": "DIVE",
+    "real_name": "Dive",
+    "type": "WATER",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SCALD": {
+    "id": "SCALD",
+    "real_name": "Scald",
+    "type": "WATER",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "SNIPESHOT": {
+    "id": "SNIPESHOT",
+    "real_name": "Snipe Shot",
+    "type": "WATER",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WATERPLEDGE": {
+    "id": "WATERPLEDGE",
+    "real_name": "Water Pledge",
+    "type": "WATER",
+    "category": 1,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WATERFALL": {
+    "id": "WATERFALL",
+    "real_name": "Waterfall",
+    "type": "WATER",
+    "category": 0,
+    "power": 80,
+    "accuracy": 100,
+    "pp": null
+  },
+  "RAZORSHELL": {
+    "id": "RAZORSHELL",
+    "real_name": "Razor Shell",
+    "type": "WATER",
+    "category": 0,
+    "power": 75,
+    "accuracy": 95,
+    "pp": null
+  },
+  "BRINE": {
+    "id": "BRINE",
+    "real_name": "Brine",
+    "type": "WATER",
+    "category": 1,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BUBBLEBEAM": {
+    "id": "BUBBLEBEAM",
+    "real_name": "Bubble Beam",
+    "type": "WATER",
+    "category": 1,
+    "power": 65,
+    "accuracy": 100,
+    "pp": null
+  },
+  "OCTAZOOKA": {
+    "id": "OCTAZOOKA",
+    "real_name": "Octazooka",
+    "type": "WATER",
+    "category": 1,
+    "power": 65,
+    "accuracy": 85,
+    "pp": null
+  },
+  "FLIPTURN": {
+    "id": "FLIPTURN",
+    "real_name": "Flip Turn",
+    "type": "WATER",
+    "category": 0,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WATERPULSE": {
+    "id": "WATERPULSE",
+    "real_name": "Water Pulse",
+    "type": "WATER",
+    "category": 1,
+    "power": 60,
+    "accuracy": 100,
+    "pp": null
+  },
+  "AQUAJET": {
+    "id": "AQUAJET",
+    "real_name": "Aqua Jet",
+    "type": "WATER",
+    "category": 0,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "BUBBLE": {
+    "id": "BUBBLE",
+    "real_name": "Bubble",
+    "type": "WATER",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WATERGUN": {
+    "id": "WATERGUN",
+    "real_name": "Water Gun",
+    "type": "WATER",
+    "category": 1,
+    "power": 40,
+    "accuracy": 100,
+    "pp": null
+  },
+  "CLAMP": {
+    "id": "CLAMP",
+    "real_name": "Clamp",
+    "type": "WATER",
+    "category": 0,
+    "power": 35,
+    "accuracy": 85,
+    "pp": null
+  },
+  "WHIRLPOOL": {
+    "id": "WHIRLPOOL",
+    "real_name": "Whirlpool",
+    "type": "WATER",
+    "category": 1,
+    "power": 35,
+    "accuracy": 85,
+    "pp": null
+  },
+  "SURGINGSTRIKES": {
+    "id": "SURGINGSTRIKES",
+    "real_name": "Surging Strikes",
+    "type": "WATER",
+    "category": 0,
+    "power": 25,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WATERSHURIKEN": {
+    "id": "WATERSHURIKEN",
+    "real_name": "Water Shuriken",
+    "type": "WATER",
+    "category": 1,
+    "power": 15,
+    "accuracy": 100,
+    "pp": null
+  },
+  "AQUARING": {
+    "id": "AQUARING",
+    "real_name": "Aqua Ring",
+    "type": "WATER",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "LIFEDEW": {
+    "id": "LIFEDEW",
+    "real_name": "Life Dew",
+    "type": "WATER",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "RAINDANCE": {
+    "id": "RAINDANCE",
+    "real_name": "Rain Dance",
+    "type": "WATER",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "SOAK": {
+    "id": "SOAK",
+    "real_name": "Soak",
+    "type": "WATER",
+    "category": 2,
+    "power": 0,
+    "accuracy": 100,
+    "pp": null
+  },
+  "WATERSPORT": {
+    "id": "WATERSPORT",
+    "real_name": "Water Sport",
+    "type": "WATER",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  },
+  "WITHDRAW": {
+    "id": "WITHDRAW",
+    "real_name": "Withdraw",
+    "type": "WATER",
+    "category": 2,
+    "power": 0,
+    "accuracy": 0,
+    "pp": null
+  }
+}

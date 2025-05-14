@@ -1,0 +1,16 @@
+{
+  "game_title": null,
+  "start_map": null,
+  "start_x": 16,
+  "start_y": 29,
+  "bgm_title": {
+  },
+  "bgm_map": {
+  },
+  "words": {
+    "currency": null,
+    "menu": null
+  },
+  "test_battler": {
+  }
+}

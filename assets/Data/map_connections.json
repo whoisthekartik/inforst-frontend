@@ -1,0 +1,191 @@
+[
+  {
+    "direction": 2,
+    "source_map_id": "N",
+    "target_map_id": 0,
+    "offset_x": 5,
+    "offset_y": "S"
+  },
+  {
+    "direction": 2,
+    "source_map_id": "W",
+    "target_map_id": 0,
+    "offset_x": 66,
+    "offset_y": "E"
+  },
+  {
+    "direction": 69,
+    "source_map_id": "N",
+    "target_map_id": 12,
+    "offset_x": 2,
+    "offset_y": "S"
+  },
+  {
+    "direction": 44,
+    "source_map_id": "S",
+    "target_map_id": 43,
+    "offset_x": 5,
+    "offset_y": "N"
+  },
+  {
+    "direction": 66,
+    "source_map_id": "N",
+    "target_map_id": 18,
+    "offset_x": 5,
+    "offset_y": "S"
+  },
+  {
+    "direction": 7,
+    "source_map_id": "S",
+    "target_map_id": 0,
+    "offset_x": 5,
+    "offset_y": "N"
+  },
+  {
+    "direction": 7,
+    "source_map_id": "W",
+    "target_map_id": 5,
+    "offset_x": 44,
+    "offset_y": "E"
+  },
+  {
+    "direction": 7,
+    "source_map_id": "E",
+    "target_map_id": 0,
+    "offset_x": 23,
+    "offset_y": "W"
+  },
+  {
+    "direction": 47,
+    "source_map_id": "W",
+    "target_map_id": 0,
+    "offset_x": 7,
+    "offset_y": "E"
+  },
+  {
+    "direction": 22,
+    "source_map_id": "N",
+    "target_map_id": 0,
+    "offset_x": 43,
+    "offset_y": "S"
+  },
+  {
+    "direction": 31,
+    "source_map_id": "S",
+    "target_map_id": 32,
+    "offset_x": 23,
+    "offset_y": "N"
+  },
+  {
+    "direction": 31,
+    "source_map_id": "W",
+    "target_map_id": 0,
+    "offset_x": 35,
+    "offset_y": "E"
+  },
+  {
+    "direction": 35,
+    "source_map_id": "W",
+    "target_map_id": 11,
+    "offset_x": 39,
+    "offset_y": "E"
+  },
+  {
+    "direction": 41,
+    "source_map_id": "N",
+    "target_map_id": 0,
+    "offset_x": 40,
+    "offset_y": "S"
+  },
+  {
+    "direction": 41,
+    "source_map_id": "S",
+    "target_map_id": 6,
+    "offset_x": 45,
+    "offset_y": "N"
+  },
+  {
+    "direction": 47,
+    "source_map_id": "E",
+    "target_map_id": 8,
+    "offset_x": 52,
+    "offset_y": "W"
+  },
+  {
+    "direction": 69,
+    "source_map_id": "N",
+    "target_map_id": 0,
+    "offset_x": 66,
+    "offset_y": "S"
+  },
+  {
+    "direction": 76,
+    "source_map_id": "W",
+    "target_map_id": 0,
+    "offset_x": 85,
+    "offset_y": "E"
+  },
+  {
+    "direction": 81,
+    "source_map_id": "W",
+    "target_map_id": 0,
+    "offset_x": 77,
+    "offset_y": "E"
+  },
+  {
+    "direction": 121,
+    "source_map_id": "W",
+    "target_map_id": 0,
+    "offset_x": 85,
+    "offset_y": "E"
+  },
+  {
+    "direction": 132,
+    "source_map_id": "E",
+    "target_map_id": 0,
+    "offset_x": 133,
+    "offset_y": "W"
+  },
+  {
+    "direction": 135,
+    "source_map_id": "E",
+    "target_map_id": 4,
+    "offset_x": 136,
+    "offset_y": "W"
+  },
+  {
+    "direction": 138,
+    "source_map_id": "S",
+    "target_map_id": 1,
+    "offset_x": 137,
+    "offset_y": "N"
+  },
+  {
+    "direction": 139,
+    "source_map_id": 0,
+    "target_map_id": 20,
+    "offset_x": 140,
+    "offset_y": 19
+  },
+  {
+    "direction": 147,
+    "source_map_id": "W",
+    "target_map_id": 0,
+    "offset_x": 143,
+    "offset_y": "E"
+  },
+  {
+    "direction": 144,
+    "source_map_id": "W",
+    "target_map_id": 0,
+    "offset_x": 147,
+    "offset_y": "E"
+  },
+  {
+    "direction": 104,
+    "source_map_id": "W",
+    "target_map_id": 13,
+    "offset_x": 159,
+    "offset_y": "E"
+  }
+]

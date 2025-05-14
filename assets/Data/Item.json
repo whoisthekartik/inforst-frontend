@@ -1,0 +1,31 @@
+[
+  {
+    "id": 1,
+    "name": "",
+    "description": "",
+    "price": 0,
+    "scope": 0,
+    "occasion": 0,
+    "animation1_id": 0,
+    "animation2_id": 0,
+    "menu_se": "",
+    "common_event_id": 0,
+    "hp_recovery_rate": null,
+    "hp_recovery": null,
+    "sp_recovery_rate": null,
+    "sp_recovery": null,
+    "hit": 100,
+    "pdef_f": 0,
+    "mdef_f": 0,
+    "variance": 0,
+    "element_set": [
+
+    ],
+    "plus_state_set": [
+
+    ],
+    "minus_state_set": [
+
+    ]
+  }
+]

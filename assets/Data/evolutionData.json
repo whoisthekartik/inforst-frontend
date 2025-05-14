@@ -1,0 +1,14 @@
+{
+  "Charmander": {
+    "level": 16,
+    "evolvesTo": "Charmeleon"
+  },
+  "Charmeleon": {
+    "level": 36,
+    "evolvesTo": "Charizard"
+  },
+  "Bulbasaur": {
+    "level": 16,
+    "evolvesTo": "Ivysaur"
+  }
+}

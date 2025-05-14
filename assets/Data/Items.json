@@ -1,0 +1,9920 @@
+[
+  {
+    "id": "REPEL",
+    "name": null,
+    "real_name": "Repel",
+    "desc": null,
+    "pocket": 1,
+    "price": 400,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Repel",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SUPERREPEL",
+    "name": null,
+    "real_name": "Super Repel",
+    "desc": null,
+    "pocket": 1,
+    "price": 700,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Repel",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MAXREPEL",
+    "name": null,
+    "real_name": "Max Repel",
+    "desc": null,
+    "pocket": 1,
+    "price": 900,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Repel",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BLACKFLUTE",
+    "name": null,
+    "real_name": "Black Flute",
+    "desc": null,
+    "pocket": 1,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "WHITEFLUTE",
+    "name": null,
+    "real_name": "White Flute",
+    "desc": null,
+    "pocket": 1,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "HONEY",
+    "name": null,
+    "real_name": "Honey",
+    "desc": null,
+    "pocket": 1,
+    "price": 900,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "REDSHARD",
+    "name": null,
+    "real_name": "Red Shard",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "YELLOWSHARD",
+    "name": null,
+    "real_name": "Yellow Shard",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BLUESHARD",
+    "name": null,
+    "real_name": "Blue Shard",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "GREENSHARD",
+    "name": null,
+    "real_name": "Green Shard",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "FIRESTONE",
+    "name": null,
+    "real_name": "Fire Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "THUNDERSTONE",
+    "name": null,
+    "real_name": "Thunder Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "WATERSTONE",
+    "name": null,
+    "real_name": "Water Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "LEAFSTONE",
+    "name": null,
+    "real_name": "Leaf Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MOONSTONE",
+    "name": null,
+    "real_name": "Moon Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SUNSTONE",
+    "name": null,
+    "real_name": "Sun Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "DUSKSTONE",
+    "name": null,
+    "real_name": "Dusk Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "DAWNSTONE",
+    "name": null,
+    "real_name": "Dawn Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "SHINYSTONE",
+    "name": null,
+    "real_name": "Shiny Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "ICESTONE",
+    "name": null,
+    "real_name": "Ice Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SWEETAPPLE",
+    "name": null,
+    "real_name": "Sweet Apple",
+    "desc": null,
+    "pocket": 1,
+    "price": 2200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "TARTAPPLE",
+    "name": null,
+    "real_name": "Tart Apple",
+    "desc": null,
+    "pocket": 1,
+    "price": 2200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "CRACKEDPOT",
+    "name": null,
+    "real_name": "Cracked Pot",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "CHIPPEDPOT",
+    "name": null,
+    "real_name": "Chipped Pot",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "GALARICACUFF",
+    "name": null,
+    "real_name": "Galarica Cuff",
+    "desc": null,
+    "pocket": 1,
+    "price": 6000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "GALARICAWREATH",
+    "name": null,
+    "real_name": "Galarica Wreath",
+    "desc": null,
+    "pocket": 1,
+    "price": 6000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "EvolutionStone",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "REDAPRICORN",
+    "name": null,
+    "real_name": "Red Apricorn",
+    "desc": null,
+    "pocket": 1,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Apricorn"
+    ]
+  },
+  {
+    "id": "YELLOWAPRICORN",
+    "name": null,
+    "real_name": "Yellow Apricorn",
+    "desc": null,
+    "pocket": 1,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Apricorn"
+    ]
+  },
+  {
+    "id": "BLUEAPRICORN",
+    "name": null,
+    "real_name": "Blue Apricorn",
+    "desc": null,
+    "pocket": 1,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Apricorn"
+    ]
+  },
+  {
+    "id": "GREENAPRICORN",
+    "name": null,
+    "real_name": "Green Apricorn",
+    "desc": null,
+    "pocket": 1,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Apricorn"
+    ]
+  },
+  {
+    "id": "PINKAPRICORN",
+    "name": null,
+    "real_name": "Pink Apricorn",
+    "desc": null,
+    "pocket": 1,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Apricorn"
+    ]
+  },
+  {
+    "id": "WHITEAPRICORN",
+    "name": null,
+    "real_name": "White Apricorn",
+    "desc": null,
+    "pocket": 1,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Apricorn"
+    ]
+  },
+  {
+    "id": "BLACKAPRICORN",
+    "name": null,
+    "real_name": "Black Apricorn",
+    "desc": null,
+    "pocket": 1,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Apricorn"
+    ]
+  },
+  {
+    "id": "HELIXFOSSIL",
+    "name": null,
+    "real_name": "Helix Fossil",
+    "desc": null,
+    "pocket": 1,
+    "price": 7000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fossil",
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "DOMEFOSSIL",
+    "name": null,
+    "real_name": "Dome Fossil",
+    "desc": null,
+    "pocket": 1,
+    "price": 7000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fossil",
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "OLDAMBER",
+    "name": null,
+    "real_name": "Old Amber",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fossil",
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "ROOTFOSSIL",
+    "name": null,
+    "real_name": "Root Fossil",
+    "desc": null,
+    "pocket": 1,
+    "price": 7000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fossil",
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "CLAWFOSSIL",
+    "name": null,
+    "real_name": "Claw Fossil",
+    "desc": null,
+    "pocket": 1,
+    "price": 7000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fossil",
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "SKULLFOSSIL",
+    "name": null,
+    "real_name": "Skull Fossil",
+    "desc": null,
+    "pocket": 1,
+    "price": 7000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fossil",
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "ARMORFOSSIL",
+    "name": null,
+    "real_name": "Armor Fossil",
+    "desc": null,
+    "pocket": 1,
+    "price": 7000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fossil",
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "COVERFOSSIL",
+    "name": null,
+    "real_name": "Cover Fossil",
+    "desc": null,
+    "pocket": 1,
+    "price": 7000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fossil",
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "PLUMEFOSSIL",
+    "name": null,
+    "real_name": "Plume Fossil",
+    "desc": null,
+    "pocket": 1,
+    "price": 7000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fossil",
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "JAWFOSSIL",
+    "name": null,
+    "real_name": "Jaw Fossil",
+    "desc": null,
+    "pocket": 1,
+    "price": 7000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fossil",
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "SAILFOSSIL",
+    "name": null,
+    "real_name": "Sail Fossil",
+    "desc": null,
+    "pocket": 1,
+    "price": 7000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fossil",
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "FOSSILIZEDBIRD",
+    "name": null,
+    "real_name": "Fossilized Bird",
+    "desc": null,
+    "pocket": 1,
+    "price": 5000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "FOSSILIZEDFISH",
+    "name": null,
+    "real_name": "Fossilized Fish",
+    "desc": null,
+    "pocket": 1,
+    "price": 5000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "FOSSILIZEDDRAKE",
+    "name": null,
+    "real_name": "Fossilized Drake",
+    "desc": null,
+    "pocket": 1,
+    "price": 5000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "FOSSILIZEDDINO",
+    "name": null,
+    "real_name": "Fossilized Dino",
+    "desc": null,
+    "pocket": 1,
+    "price": 5000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "PRETTYFEATHER",
+    "name": null,
+    "real_name": "Pretty Feather",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_20"
+    ]
+  },
+  {
+    "id": "TINYMUSHROOM",
+    "name": null,
+    "real_name": "Tiny Mushroom",
+    "desc": null,
+    "pocket": 1,
+    "price": 500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BIGMUSHROOM",
+    "name": null,
+    "real_name": "Big Mushroom",
+    "desc": null,
+    "pocket": 1,
+    "price": 5000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BALMMUSHROOM",
+    "name": null,
+    "real_name": "Balm Mushroom",
+    "desc": null,
+    "pocket": 1,
+    "price": 15000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "PEARL",
+    "name": null,
+    "real_name": "Pearl",
+    "desc": null,
+    "pocket": 1,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BIGPEARL",
+    "name": null,
+    "real_name": "Big Pearl",
+    "desc": null,
+    "pocket": 1,
+    "price": 8000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "PEARLSTRING",
+    "name": null,
+    "real_name": "Pearl String",
+    "desc": null,
+    "pocket": 1,
+    "price": 20000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "STARDUST",
+    "name": null,
+    "real_name": "Stardust",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "STARPIECE",
+    "name": null,
+    "real_name": "Star Piece",
+    "desc": null,
+    "pocket": 1,
+    "price": 12000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "COMETSHARD",
+    "name": null,
+    "real_name": "Comet Shard",
+    "desc": null,
+    "pocket": 1,
+    "price": 25000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "NUGGET",
+    "name": null,
+    "real_name": "Nugget",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BIGNUGGET",
+    "name": null,
+    "real_name": "Big Nugget",
+    "desc": null,
+    "pocket": 1,
+    "price": 40000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "HEARTSCALE",
+    "name": null,
+    "real_name": "Heart Scale",
+    "desc": null,
+    "pocket": 1,
+    "price": 100,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SLOWPOKETAIL",
+    "name": null,
+    "real_name": "Slowpoke Tail",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "RAREBONE",
+    "name": null,
+    "real_name": "Rare Bone",
+    "desc": null,
+    "pocket": 1,
+    "price": 5000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "RELICCOPPER",
+    "name": null,
+    "real_name": "Relic Copper",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "RELICSILVER",
+    "name": null,
+    "real_name": "Relic Silver",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "RELICGOLD",
+    "name": null,
+    "real_name": "Relic Gold",
+    "desc": null,
+    "pocket": 1,
+    "price": 60000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "RELICVASE",
+    "name": null,
+    "real_name": "Relic Vase",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "RELICBAND",
+    "name": null,
+    "real_name": "Relic Band",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "RELICSTATUE",
+    "name": null,
+    "real_name": "Relic Statue",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "RELICCROWN",
+    "name": null,
+    "real_name": "Relic Crown",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "GROWTHMULCH",
+    "name": null,
+    "real_name": "Growth Mulch",
+    "desc": null,
+    "pocket": 1,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Mulch",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "DAMPMULCH",
+    "name": null,
+    "real_name": "Damp Mulch",
+    "desc": null,
+    "pocket": 1,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Mulch",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "STABLEMULCH",
+    "name": null,
+    "real_name": "Stable Mulch",
+    "desc": null,
+    "pocket": 1,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Mulch",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "GOOEYMULCH",
+    "name": null,
+    "real_name": "Gooey Mulch",
+    "desc": null,
+    "pocket": 1,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Mulch",
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SHOALSALT",
+    "name": null,
+    "real_name": "Shoal Salt",
+    "desc": null,
+    "pocket": 1,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SHOALSHELL",
+    "name": null,
+    "real_name": "Shoal Shell",
+    "desc": null,
+    "pocket": 1,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ODDKEYSTONE",
+    "name": null,
+    "real_name": "Odd Keystone",
+    "desc": null,
+    "pocket": 1,
+    "price": 2100,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "REDNECTAR",
+    "name": null,
+    "real_name": "Red Nectar",
+    "desc": null,
+    "pocket": 1,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "YELLOWNECTAR",
+    "name": null,
+    "real_name": "Yellow Nectar",
+    "desc": null,
+    "pocket": 1,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "PINKNECTAR",
+    "name": null,
+    "real_name": "Pink Nectar",
+    "desc": null,
+    "pocket": 1,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "PURPLENECTAR",
+    "name": null,
+    "real_name": "Purple Nectar",
+    "desc": null,
+    "pocket": 1,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "AIRBALLOON",
+    "name": null,
+    "real_name": "Air Balloon",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "BRIGHTPOWDER",
+    "name": null,
+    "real_name": "Bright Powder",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "EVIOLITE",
+    "name": null,
+    "real_name": "Eviolite",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_40"
+    ]
+  },
+  {
+    "id": "FLOATSTONE",
+    "name": null,
+    "real_name": "Float Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "DESTINYKNOT",
+    "name": null,
+    "real_name": "Destiny Knot",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "ROCKYHELMET",
+    "name": null,
+    "real_name": "Rocky Helmet",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "ASSAULTVEST",
+    "name": null,
+    "real_name": "Assault Vest",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "SAFETYGOGGLES",
+    "name": null,
+    "real_name": "Safety Goggles",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "PROTECTIVEPADS",
+    "name": null,
+    "real_name": "Protective Pads",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "HEAVYDUTYBOOTS",
+    "name": null,
+    "real_name": "Heavy-Duty Boots",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "UTILITYUMBRELLA",
+    "name": null,
+    "real_name": "Utility Umbrella",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "EJECTBUTTON",
+    "name": null,
+    "real_name": "Eject Button",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "EJECTPACK",
+    "name": null,
+    "real_name": "Eject Pack",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "REDCARD",
+    "name": null,
+    "real_name": "Red Card",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "SHEDSHELL",
+    "name": null,
+    "real_name": "Shed Shell",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "SMOKEBALL",
+    "name": null,
+    "real_name": "Smoke Ball",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "LUCKYEGG",
+    "name": null,
+    "real_name": "Lucky Egg",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "EXPSHARE",
+    "name": null,
+    "real_name": "Exp. Share",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "AMULETCOIN",
+    "name": null,
+    "real_name": "Amulet Coin",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SOOTHEBELL",
+    "name": null,
+    "real_name": "Soothe Bell",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "CLEANSETAG",
+    "name": null,
+    "real_name": "Cleanse Tag",
+    "desc": null,
+    "pocket": 1,
+    "price": 5000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "CHOICEBAND",
+    "name": null,
+    "real_name": "Choice Band",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "CHOICESPECS",
+    "name": null,
+    "real_name": "Choice Specs",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "CHOICESCARF",
+    "name": null,
+    "real_name": "Choice Scarf",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "HEATROCK",
+    "name": null,
+    "real_name": "Heat Rock",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "DAMPROCK",
+    "name": null,
+    "real_name": "Damp Rock",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "SMOOTHROCK",
+    "name": null,
+    "real_name": "Smooth Rock",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "ICYROCK",
+    "name": null,
+    "real_name": "Icy Rock",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_40"
+    ]
+  },
+  {
+    "id": "TERRAINEXTENDER",
+    "name": null,
+    "real_name": "Terrain Extender",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "LIGHTCLAY",
+    "name": null,
+    "real_name": "Light Clay",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "GRIPCLAW",
+    "name": null,
+    "real_name": "Grip Claw",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "BINDINGBAND",
+    "name": null,
+    "real_name": "Binding Band",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BIGROOT",
+    "name": null,
+    "real_name": "Big Root",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "BLACKSLUDGE",
+    "name": null,
+    "real_name": "Black Sludge",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "LEFTOVERS",
+    "name": null,
+    "real_name": "Leftovers",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "SHELLBELL",
+    "name": null,
+    "real_name": "Shell Bell",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MENTALHERB",
+    "name": null,
+    "real_name": "Mental Herb",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "WHITEHERB",
+    "name": null,
+    "real_name": "White Herb",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "POWERHERB",
+    "name": null,
+    "real_name": "Power Herb",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "ABSORBBULB",
+    "name": null,
+    "real_name": "Absorb Bulb",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "CELLBATTERY",
+    "name": null,
+    "real_name": "Cell Battery",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "LUMINOUSMOSS",
+    "name": null,
+    "real_name": "Luminous Moss",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SNOWBALL",
+    "name": null,
+    "real_name": "Snowball",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "WEAKNESSPOLICY",
+    "name": null,
+    "real_name": "Weakness Policy",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "BLUNDERPOLICY",
+    "name": null,
+    "real_name": "Blunder Policy",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "THROATSPRAY",
+    "name": null,
+    "real_name": "Throat Spray",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ADRENALINEORB",
+    "name": null,
+    "real_name": "Adrenaline Orb",
+    "desc": null,
+    "pocket": 1,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ROOMSERVICE",
+    "name": null,
+    "real_name": "Room Service",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "ELECTRICSEED",
+    "name": null,
+    "real_name": "Electric Seed",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "GRASSYSEED",
+    "name": null,
+    "real_name": "Grassy Seed",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "MISTYSEED",
+    "name": null,
+    "real_name": "Misty Seed",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "PSYCHICSEED",
+    "name": null,
+    "real_name": "Psychic Seed",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "LIFEORB",
+    "name": null,
+    "real_name": "Life Orb",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "EXPERTBELT",
+    "name": null,
+    "real_name": "Expert Belt",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "METRONOME",
+    "name": null,
+    "real_name": "Metronome",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MUSCLEBAND",
+    "name": null,
+    "real_name": "Muscle Band",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "WISEGLASSES",
+    "name": null,
+    "real_name": "Wise Glasses",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "RAZORCLAW",
+    "name": null,
+    "real_name": "Razor Claw",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "SCOPELENS",
+    "name": null,
+    "real_name": "Scope Lens",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "WIDELENS",
+    "name": null,
+    "real_name": "Wide Lens",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "ZOOMLENS",
+    "name": null,
+    "real_name": "Zoom Lens",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "KINGSROCK",
+    "name": null,
+    "real_name": "King's Rock",
+    "desc": null,
+    "pocket": 1,
+    "price": 5000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "RAZORFANG",
+    "name": null,
+    "real_name": "Razor Fang",
+    "desc": null,
+    "pocket": 1,
+    "price": 5000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "LAGGINGTAIL",
+    "name": null,
+    "real_name": "Lagging Tail",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "QUICKCLAW",
+    "name": null,
+    "real_name": "Quick Claw",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "FOCUSBAND",
+    "name": null,
+    "real_name": "Focus Band",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "FOCUSSASH",
+    "name": null,
+    "real_name": "Focus Sash",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "FLAMEORB",
+    "name": null,
+    "real_name": "Flame Orb",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "TOXICORB",
+    "name": null,
+    "real_name": "Toxic Orb",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "STICKYBARB",
+    "name": null,
+    "real_name": "Sticky Barb",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "IRONBALL",
+    "name": null,
+    "real_name": "Iron Ball",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_130"
+    ]
+  },
+  {
+    "id": "RINGTARGET",
+    "name": null,
+    "real_name": "Ring Target",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "MACHOBRACE",
+    "name": null,
+    "real_name": "Macho Brace",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "POWERWEIGHT",
+    "name": null,
+    "real_name": "Power Weight",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "POWERBRACER",
+    "name": null,
+    "real_name": "Power Bracer",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "POWERBELT",
+    "name": null,
+    "real_name": "Power Belt",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "POWERLENS",
+    "name": null,
+    "real_name": "Power Lens",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "POWERBAND",
+    "name": null,
+    "real_name": "Power Band",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "POWERANKLET",
+    "name": null,
+    "real_name": "Power Anklet",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "LAXINCENSE",
+    "name": null,
+    "real_name": "Lax Incense",
+    "desc": null,
+    "pocket": 1,
+    "price": 5000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "FULLINCENSE",
+    "name": null,
+    "real_name": "Full Incense",
+    "desc": null,
+    "pocket": 1,
+    "price": 5000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "LUCKINCENSE",
+    "name": null,
+    "real_name": "Luck Incense",
+    "desc": null,
+    "pocket": 1,
+    "price": 11000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "PUREINCENSE",
+    "name": null,
+    "real_name": "Pure Incense",
+    "desc": null,
+    "pocket": 1,
+    "price": 6000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "SEAINCENSE",
+    "name": null,
+    "real_name": "Sea Incense",
+    "desc": null,
+    "pocket": 1,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "WAVEINCENSE",
+    "name": null,
+    "real_name": "Wave Incense",
+    "desc": null,
+    "pocket": 1,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "ROSEINCENSE",
+    "name": null,
+    "real_name": "Rose Incense",
+    "desc": null,
+    "pocket": 1,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "ODDINCENSE",
+    "name": null,
+    "real_name": "Odd Incense",
+    "desc": null,
+    "pocket": 1,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "ROCKINCENSE",
+    "name": null,
+    "real_name": "Rock Incense",
+    "desc": null,
+    "pocket": 1,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "CHARCOAL",
+    "name": null,
+    "real_name": "Charcoal",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MYSTICWATER",
+    "name": null,
+    "real_name": "Mystic Water",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MAGNET",
+    "name": null,
+    "real_name": "Magnet",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MIRACLESEED",
+    "name": null,
+    "real_name": "Miracle Seed",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "NEVERMELTICE",
+    "name": null,
+    "real_name": "Never-Melt Ice",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BLACKBELT",
+    "name": null,
+    "real_name": "Black Belt",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "POISONBARB",
+    "name": null,
+    "real_name": "Poison Barb",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "SOFTSAND",
+    "name": null,
+    "real_name": "Soft Sand",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "SHARPBEAK",
+    "name": null,
+    "real_name": "Sharp Beak",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "TWISTEDSPOON",
+    "name": null,
+    "real_name": "Twisted Spoon",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SILVERPOWDER",
+    "name": null,
+    "real_name": "Silver Powder",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "HARDSTONE",
+    "name": null,
+    "real_name": "Hard Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "SPELLTAG",
+    "name": null,
+    "real_name": "Spell Tag",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "DRAGONFANG",
+    "name": null,
+    "real_name": "Dragon Fang",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "BLACKGLASSES",
+    "name": null,
+    "real_name": "Black Glasses",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "METALCOAT",
+    "name": null,
+    "real_name": "Metal Coat",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SILKSCARF",
+    "name": null,
+    "real_name": "Silk Scarf",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "FLAMEPLATE",
+    "name": null,
+    "real_name": "Flame Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "SPLASHPLATE",
+    "name": null,
+    "real_name": "Splash Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "ZAPPLATE",
+    "name": null,
+    "real_name": "Zap Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "MEADOWPLATE",
+    "name": null,
+    "real_name": "Meadow Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "ICICLEPLATE",
+    "name": null,
+    "real_name": "Icicle Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "FISTPLATE",
+    "name": null,
+    "real_name": "Fist Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "TOXICPLATE",
+    "name": null,
+    "real_name": "Toxic Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "EARTHPLATE",
+    "name": null,
+    "real_name": "Earth Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "SKYPLATE",
+    "name": null,
+    "real_name": "Sky Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "MINDPLATE",
+    "name": null,
+    "real_name": "Mind Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "INSECTPLATE",
+    "name": null,
+    "real_name": "Insect Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "STONEPLATE",
+    "name": null,
+    "real_name": "Stone Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "SPOOKYPLATE",
+    "name": null,
+    "real_name": "Spooky Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "DRACOPLATE",
+    "name": null,
+    "real_name": "Draco Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "DREADPLATE",
+    "name": null,
+    "real_name": "Dread Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "IRONPLATE",
+    "name": null,
+    "real_name": "Iron Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "PIXIEPLATE",
+    "name": null,
+    "real_name": "Pixie Plate",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "FIREGEM",
+    "name": null,
+    "real_name": "Fire Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "WATERGEM",
+    "name": null,
+    "real_name": "Water Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "ELECTRICGEM",
+    "name": null,
+    "real_name": "Electric Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "GRASSGEM",
+    "name": null,
+    "real_name": "Grass Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "ICEGEM",
+    "name": null,
+    "real_name": "Ice Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "FIGHTINGGEM",
+    "name": null,
+    "real_name": "Fighting Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "POISONGEM",
+    "name": null,
+    "real_name": "Poison Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "GROUNDGEM",
+    "name": null,
+    "real_name": "Ground Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "FLYINGGEM",
+    "name": null,
+    "real_name": "Flying Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "PSYCHICGEM",
+    "name": null,
+    "real_name": "Psychic Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "BUGGEM",
+    "name": null,
+    "real_name": "Bug Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "ROCKGEM",
+    "name": null,
+    "real_name": "Rock Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "GHOSTGEM",
+    "name": null,
+    "real_name": "Ghost Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "DRAGONGEM",
+    "name": null,
+    "real_name": "Dragon Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "DARKGEM",
+    "name": null,
+    "real_name": "Dark Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "STEELGEM",
+    "name": null,
+    "real_name": "Steel Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "FAIRYGEM",
+    "name": null,
+    "real_name": "Fairy Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "NORMALGEM",
+    "name": null,
+    "real_name": "Normal Gem",
+    "desc": null,
+    "pocket": 1,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "TypeGem"
+    ]
+  },
+  {
+    "id": "LIGHTBALL",
+    "name": null,
+    "real_name": "Light Ball",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "LUCKYPUNCH",
+    "name": null,
+    "real_name": "Lucky Punch",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_40"
+    ]
+  },
+  {
+    "id": "METALPOWDER",
+    "name": null,
+    "real_name": "Metal Powder",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "QUICKPOWDER",
+    "name": null,
+    "real_name": "Quick Powder",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "THICKCLUB",
+    "name": null,
+    "real_name": "Thick Club",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "LEEK",
+    "name": null,
+    "real_name": "Leek",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "SOULDEW",
+    "name": null,
+    "real_name": "Soul Dew",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "DEEPSEATOOTH",
+    "name": null,
+    "real_name": "Deep Sea Tooth",
+    "desc": null,
+    "pocket": 1,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "DEEPSEASCALE",
+    "name": null,
+    "real_name": "Deep Sea Scale",
+    "desc": null,
+    "pocket": 1,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ADAMANTORB",
+    "name": null,
+    "real_name": "Adamant Orb",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "LUSTROUSORB",
+    "name": null,
+    "real_name": "Lustrous Orb",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "GRISEOUSORB",
+    "name": null,
+    "real_name": "Griseous Orb",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "RUSTEDSWORD",
+    "name": null,
+    "real_name": "Rusted Sword",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "RUSTEDSHIELD",
+    "name": null,
+    "real_name": "Rusted Shield",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "DOUSEDRIVE",
+    "name": null,
+    "real_name": "Douse Drive",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "SHOCKDRIVE",
+    "name": null,
+    "real_name": "Shock Drive",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "BURNDRIVE",
+    "name": null,
+    "real_name": "Burn Drive",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "CHILLDRIVE",
+    "name": null,
+    "real_name": "Chill Drive",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "FIREMEMORY",
+    "name": null,
+    "real_name": "Fire Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "WATERMEMORY",
+    "name": null,
+    "real_name": "Water Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "ELECTRICMEMORY",
+    "name": null,
+    "real_name": "Electric Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "GRASSMEMORY",
+    "name": null,
+    "real_name": "Grass Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "ICEMEMORY",
+    "name": null,
+    "real_name": "Ice Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "FIGHTINGMEMORY",
+    "name": null,
+    "real_name": "Fighting Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "POISONMEMORY",
+    "name": null,
+    "real_name": "Poison Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "GROUNDMEMORY",
+    "name": null,
+    "real_name": "Ground Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "FLYINGMEMORY",
+    "name": null,
+    "real_name": "Flying Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "PSYCHICMEMORY",
+    "name": null,
+    "real_name": "Psychic Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "BUGMEMORY",
+    "name": null,
+    "real_name": "Bug Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "ROCKMEMORY",
+    "name": null,
+    "real_name": "Rock Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "GHOSTMEMORY",
+    "name": null,
+    "real_name": "Ghost Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "DRAGONMEMORY",
+    "name": null,
+    "real_name": "Dragon Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "DARKMEMORY",
+    "name": null,
+    "real_name": "Dark Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "STEELMEMORY",
+    "name": null,
+    "real_name": "Steel Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "FAIRYMEMORY",
+    "name": null,
+    "real_name": "Fairy Memory",
+    "desc": null,
+    "pocket": 1,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "EVERSTONE",
+    "name": null,
+    "real_name": "Everstone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "DRAGONSCALE",
+    "name": null,
+    "real_name": "Dragon Scale",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "UPGRADE",
+    "name": null,
+    "real_name": "Upgrade",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "DUBIOUSDISC",
+    "name": null,
+    "real_name": "Dubious Disc",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "PROTECTOR",
+    "name": null,
+    "real_name": "Protector",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "ELECTIRIZER",
+    "name": null,
+    "real_name": "Electirizer",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "MAGMARIZER",
+    "name": null,
+    "real_name": "Magmarizer",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "REAPERCLOTH",
+    "name": null,
+    "real_name": "Reaper Cloth",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "PRISMSCALE",
+    "name": null,
+    "real_name": "Prism Scale",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "OVALSTONE",
+    "name": null,
+    "real_name": "Oval Stone",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "WHIPPEDDREAM",
+    "name": null,
+    "real_name": "Whipped Dream",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "SACHET",
+    "name": null,
+    "real_name": "Sachet",
+    "desc": null,
+    "pocket": 1,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "STRAWBERRYSWEET",
+    "name": null,
+    "real_name": "Strawberry Sweet",
+    "desc": null,
+    "pocket": 1,
+    "price": 500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "LOVESWEET",
+    "name": null,
+    "real_name": "Love Sweet",
+    "desc": null,
+    "pocket": 1,
+    "price": 500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "BERRYSWEET",
+    "name": null,
+    "real_name": "Berry Sweet",
+    "desc": null,
+    "pocket": 1,
+    "price": 500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "CLOVERSWEET",
+    "name": null,
+    "real_name": "Clover Sweet",
+    "desc": null,
+    "pocket": 1,
+    "price": 500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "FLOWERSWEET",
+    "name": null,
+    "real_name": "Flower Sweet",
+    "desc": null,
+    "pocket": 1,
+    "price": 500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "STARSWEET",
+    "name": null,
+    "real_name": "Star Sweet",
+    "desc": null,
+    "pocket": 1,
+    "price": 500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "RIBBONSWEET",
+    "name": null,
+    "real_name": "Ribbon Sweet",
+    "desc": null,
+    "pocket": 1,
+    "price": 500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "VENUSAURITE",
+    "name": null,
+    "real_name": "Venusaurite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "CHARIZARDITEX",
+    "name": null,
+    "real_name": "Charizardite X",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "CHARIZARDITEY",
+    "name": null,
+    "real_name": "Charizardite Y",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "BLASTOISINITE",
+    "name": null,
+    "real_name": "Blastoisinite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "BEEDRILLITE",
+    "name": null,
+    "real_name": "Beedrillite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "PIDGEOTITE",
+    "name": null,
+    "real_name": "Pidgeotite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "ALAKAZITE",
+    "name": null,
+    "real_name": "Alakazite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "SLOWBRONITE",
+    "name": null,
+    "real_name": "Slowbronite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "GENGARITE",
+    "name": null,
+    "real_name": "Gengarite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "KANGASKHANITE",
+    "name": null,
+    "real_name": "Kangaskhanite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "PINSIRITE",
+    "name": null,
+    "real_name": "Pinsirite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "GYARADOSITE",
+    "name": null,
+    "real_name": "Gyaradosite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "AERODACTYLITE",
+    "name": null,
+    "real_name": "Aerodactylite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "MEWTWONITEX",
+    "name": null,
+    "real_name": "Mewtwonite X",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "MEWTWONITEY",
+    "name": null,
+    "real_name": "Mewtwonite Y",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "AMPHAROSITE",
+    "name": null,
+    "real_name": "Ampharosite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "STEELIXITE",
+    "name": null,
+    "real_name": "Steelixite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "SCIZORITE",
+    "name": null,
+    "real_name": "Scizorite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "HERACRONITE",
+    "name": null,
+    "real_name": "Heracronite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "HOUNDOOMINITE",
+    "name": null,
+    "real_name": "Houndoominite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TYRANITARITE",
+    "name": null,
+    "real_name": "Tyranitarite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "SCEPTILITE",
+    "name": null,
+    "real_name": "Sceptilite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "BLAZIKENITE",
+    "name": null,
+    "real_name": "Blazikenite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "SWAMPERTITE",
+    "name": null,
+    "real_name": "Swampertite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "GARDEVOIRITE",
+    "name": null,
+    "real_name": "Gardevoirite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "SABLENITE",
+    "name": null,
+    "real_name": "Sablenite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "MAWILITE",
+    "name": null,
+    "real_name": "Mawilite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "AGGRONITE",
+    "name": null,
+    "real_name": "Aggronite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "MEDICHAMITE",
+    "name": null,
+    "real_name": "Medichamite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "MANECTITE",
+    "name": null,
+    "real_name": "Manectite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "SHARPEDONITE",
+    "name": null,
+    "real_name": "Sharpedonite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "CAMERUPTITE",
+    "name": null,
+    "real_name": "Cameruptite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "ALTARIANITE",
+    "name": null,
+    "real_name": "Altarianite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "BANETTITE",
+    "name": null,
+    "real_name": "Banettite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "ABSOLITE",
+    "name": null,
+    "real_name": "Absolite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "GLALITITE",
+    "name": null,
+    "real_name": "Glalitite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "SALAMENCITE",
+    "name": null,
+    "real_name": "Salamencite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "METAGROSSITE",
+    "name": null,
+    "real_name": "Metagrossite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "LATIASITE",
+    "name": null,
+    "real_name": "Latiasite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "LATIOSITE",
+    "name": null,
+    "real_name": "Latiosite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "LOPUNNITE",
+    "name": null,
+    "real_name": "Lopunnite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "GARCHOMPITE",
+    "name": null,
+    "real_name": "Garchompite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "LUCARIONITE",
+    "name": null,
+    "real_name": "Lucarionite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "ABOMASITE",
+    "name": null,
+    "real_name": "Abomasite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "GALLADITE",
+    "name": null,
+    "real_name": "Galladite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "AUDINITE",
+    "name": null,
+    "real_name": "Audinite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "DIANCITE",
+    "name": null,
+    "real_name": "Diancite",
+    "desc": null,
+    "pocket": 1,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "MegaStone",
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "REDORB",
+    "name": null,
+    "real_name": "Red Orb",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "BLUEORB",
+    "name": null,
+    "real_name": "Blue Orb",
+    "desc": null,
+    "pocket": 1,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "POTION",
+    "name": null,
+    "real_name": "Potion",
+    "desc": null,
+    "pocket": 2,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SUPERPOTION",
+    "name": null,
+    "real_name": "Super Potion",
+    "desc": null,
+    "pocket": 2,
+    "price": 700,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "HYPERPOTION",
+    "name": null,
+    "real_name": "Hyper Potion",
+    "desc": null,
+    "pocket": 2,
+    "price": 1500,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MAXPOTION",
+    "name": null,
+    "real_name": "Max Potion",
+    "desc": null,
+    "pocket": 2,
+    "price": 2500,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "FULLRESTORE",
+    "name": null,
+    "real_name": "Full Restore",
+    "desc": null,
+    "pocket": 2,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SACREDASH",
+    "name": null,
+    "real_name": "Sacred Ash",
+    "desc": null,
+    "pocket": 2,
+    "price": 50000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "AWAKENING",
+    "name": null,
+    "real_name": "Awakening",
+    "desc": null,
+    "pocket": 2,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ANTIDOTE",
+    "name": null,
+    "real_name": "Antidote",
+    "desc": null,
+    "pocket": 2,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BURNHEAL",
+    "name": null,
+    "real_name": "Burn Heal",
+    "desc": null,
+    "pocket": 2,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "PARALYZEHEAL",
+    "name": null,
+    "real_name": "Paralyze Heal",
+    "desc": null,
+    "pocket": 2,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ICEHEAL",
+    "name": null,
+    "real_name": "Ice Heal",
+    "desc": null,
+    "pocket": 2,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "FULLHEAL",
+    "name": null,
+    "real_name": "Full Heal",
+    "desc": null,
+    "pocket": 2,
+    "price": 400,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "PEWTERCRUNCHIES",
+    "name": null,
+    "real_name": "Pewter Crunchies",
+    "desc": null,
+    "pocket": 2,
+    "price": 250,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "RAGECANDYBAR",
+    "name": null,
+    "real_name": "Rage Candy Bar",
+    "desc": null,
+    "pocket": 2,
+    "price": 350,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "LAVACOOKIE",
+    "name": null,
+    "real_name": "Lava Cookie",
+    "desc": null,
+    "pocket": 2,
+    "price": 350,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "OLDGATEAU",
+    "name": null,
+    "real_name": "Old Gateau",
+    "desc": null,
+    "pocket": 2,
+    "price": 350,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "CASTELIACONE",
+    "name": null,
+    "real_name": "Casteliacone",
+    "desc": null,
+    "pocket": 2,
+    "price": 350,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "LUMIOSEGALETTE",
+    "name": null,
+    "real_name": "Lumiose Galette",
+    "desc": null,
+    "pocket": 2,
+    "price": 350,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SHALOURSABLE",
+    "name": null,
+    "real_name": "Shalour Sable",
+    "desc": null,
+    "pocket": 2,
+    "price": 350,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BIGMALASADA",
+    "name": null,
+    "real_name": "Big Malasada",
+    "desc": null,
+    "pocket": 2,
+    "price": 350,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "REVIVE",
+    "name": null,
+    "real_name": "Revive",
+    "desc": null,
+    "pocket": 2,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MAXREVIVE",
+    "name": null,
+    "real_name": "Max Revive",
+    "desc": null,
+    "pocket": 2,
+    "price": 4000,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BERRYJUICE",
+    "name": null,
+    "real_name": "Berry Juice",
+    "desc": null,
+    "pocket": 2,
+    "price": 100,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SWEETHEART",
+    "name": null,
+    "real_name": "Sweet Heart",
+    "desc": null,
+    "pocket": 2,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "FRESHWATER",
+    "name": null,
+    "real_name": "Fresh Water",
+    "desc": null,
+    "pocket": 2,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "SODAPOP",
+    "name": null,
+    "real_name": "Soda Pop",
+    "desc": null,
+    "pocket": 2,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "LEMONADE",
+    "name": null,
+    "real_name": "Lemonade",
+    "desc": null,
+    "pocket": 2,
+    "price": 350,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MOOMOOMILK",
+    "name": null,
+    "real_name": "Moomoo Milk",
+    "desc": null,
+    "pocket": 2,
+    "price": 600,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ENERGYPOWDER",
+    "name": null,
+    "real_name": "Energy Powder",
+    "desc": null,
+    "pocket": 2,
+    "price": 500,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ENERGYROOT",
+    "name": null,
+    "real_name": "Energy Root",
+    "desc": null,
+    "pocket": 2,
+    "price": 1200,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "HEALPOWDER",
+    "name": null,
+    "real_name": "Heal Powder",
+    "desc": null,
+    "pocket": 2,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "REVIVALHERB",
+    "name": null,
+    "real_name": "Revival Herb",
+    "desc": null,
+    "pocket": 2,
+    "price": 2800,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MAXHONEY",
+    "name": null,
+    "real_name": "Max Honey",
+    "desc": null,
+    "pocket": 2,
+    "price": 8000,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ETHER",
+    "name": null,
+    "real_name": "Ether",
+    "desc": null,
+    "pocket": 2,
+    "price": 1200,
+    "use_cmd": null,
+    "battle_use": 2,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MAXETHER",
+    "name": null,
+    "real_name": "Max Ether",
+    "desc": null,
+    "pocket": 2,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 2,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ELIXIR",
+    "name": null,
+    "real_name": "Elixir",
+    "desc": null,
+    "pocket": 2,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MAXELIXIR",
+    "name": null,
+    "real_name": "Max Elixir",
+    "desc": null,
+    "pocket": 2,
+    "price": 4500,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "PPUP",
+    "name": null,
+    "real_name": "PP Up",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "PPMAX",
+    "name": null,
+    "real_name": "PP Max",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "HPUP",
+    "name": null,
+    "real_name": "HP Up",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "PROTEIN",
+    "name": null,
+    "real_name": "Protein",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "IRON",
+    "name": null,
+    "real_name": "Iron",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "CALCIUM",
+    "name": null,
+    "real_name": "Calcium",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ZINC",
+    "name": null,
+    "real_name": "Zinc",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "CARBOS",
+    "name": null,
+    "real_name": "Carbos",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "HEALTHFEATHER",
+    "name": null,
+    "real_name": "Health Feather",
+    "desc": null,
+    "pocket": 2,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_20"
+    ]
+  },
+  {
+    "id": "MUSCLEFEATHER",
+    "name": null,
+    "real_name": "Muscle Feather",
+    "desc": null,
+    "pocket": 2,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_20"
+    ]
+  },
+  {
+    "id": "RESISTFEATHER",
+    "name": null,
+    "real_name": "Resist Feather",
+    "desc": null,
+    "pocket": 2,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_20"
+    ]
+  },
+  {
+    "id": "GENIUSFEATHER",
+    "name": null,
+    "real_name": "Genius Feather",
+    "desc": null,
+    "pocket": 2,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_20"
+    ]
+  },
+  {
+    "id": "CLEVERFEATHER",
+    "name": null,
+    "real_name": "Clever Feather",
+    "desc": null,
+    "pocket": 2,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_20"
+    ]
+  },
+  {
+    "id": "SWIFTFEATHER",
+    "name": null,
+    "real_name": "Swift Feather",
+    "desc": null,
+    "pocket": 2,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_20"
+    ]
+  },
+  {
+    "id": "LONELYMINT",
+    "name": null,
+    "real_name": "Lonely Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "ADAMANTMINT",
+    "name": null,
+    "real_name": "Adamant Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "NAUGHTYMINT",
+    "name": null,
+    "real_name": "Naughty Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "BRAVEMINT",
+    "name": null,
+    "real_name": "Brave Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "BOLDMINT",
+    "name": null,
+    "real_name": "Bold Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "IMPISHMINT",
+    "name": null,
+    "real_name": "Impish Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "LAXMINT",
+    "name": null,
+    "real_name": "Lax Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "RELAXEDMINT",
+    "name": null,
+    "real_name": "Relaxed Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "MODESTMINT",
+    "name": null,
+    "real_name": "Modest Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "MILDMINT",
+    "name": null,
+    "real_name": "Mild Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "RASHMINT",
+    "name": null,
+    "real_name": "Rash Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "QUIETMINT",
+    "name": null,
+    "real_name": "Quiet Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "CALMMINT",
+    "name": null,
+    "real_name": "Calm Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "GENTLEMINT",
+    "name": null,
+    "real_name": "Gentle Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "CAREFULMINT",
+    "name": null,
+    "real_name": "Careful Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "SASSYMINT",
+    "name": null,
+    "real_name": "Sassy Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TIMIDMINT",
+    "name": null,
+    "real_name": "Timid Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "HASTYMINT",
+    "name": null,
+    "real_name": "Hasty Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "JOLLYMINT",
+    "name": null,
+    "real_name": "Jolly Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "NAIVEMINT",
+    "name": null,
+    "real_name": "Naive Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "SERIOUSMINT",
+    "name": null,
+    "real_name": "Serious Mint",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "ABILITYCAPSULE",
+    "name": null,
+    "real_name": "Ability Capsule",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "ABILITYPATCH",
+    "name": null,
+    "real_name": "Ability Patch",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "EXPCANDYXS",
+    "name": null,
+    "real_name": "Exp. Candy XS",
+    "desc": null,
+    "pocket": 2,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "EXPCANDYS",
+    "name": null,
+    "real_name": "Exp. Candy S",
+    "desc": null,
+    "pocket": 2,
+    "price": 240,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "EXPCANDYM",
+    "name": null,
+    "real_name": "Exp. Candy M",
+    "desc": null,
+    "pocket": 2,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "EXPCANDYL",
+    "name": null,
+    "real_name": "Exp. Candy L",
+    "desc": null,
+    "pocket": 2,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "EXPCANDYXL",
+    "name": null,
+    "real_name": "Exp. Candy XL",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "RARECANDY",
+    "name": null,
+    "real_name": "Rare Candy",
+    "desc": null,
+    "pocket": 2,
+    "price": 10000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MASTERBALL",
+    "name": null,
+    "real_name": "Master Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "ULTRABALL",
+    "name": null,
+    "real_name": "Ultra Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 800,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "GREATBALL",
+    "name": null,
+    "real_name": "Great Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 600,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "POKEBALL",
+    "name": null,
+    "real_name": "Poké Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "SAFARIBALL",
+    "name": null,
+    "real_name": "Safari Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "SPORTBALL",
+    "name": null,
+    "real_name": "Sport Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "NETBALL",
+    "name": null,
+    "real_name": "Net Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "DIVEBALL",
+    "name": null,
+    "real_name": "Dive Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "NESTBALL",
+    "name": null,
+    "real_name": "Nest Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "REPEATBALL",
+    "name": null,
+    "real_name": "Repeat Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "TIMERBALL",
+    "name": null,
+    "real_name": "Timer Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "LUXURYBALL",
+    "name": null,
+    "real_name": "Luxury Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "PREMIERBALL",
+    "name": null,
+    "real_name": "Premier Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 200,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "DUSKBALL",
+    "name": null,
+    "real_name": "Dusk Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "HEALBALL",
+    "name": null,
+    "real_name": "Heal Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "QUICKBALL",
+    "name": null,
+    "real_name": "Quick Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "CHERISHBALL",
+    "name": null,
+    "real_name": "Cherish Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "FASTBALL",
+    "name": null,
+    "real_name": "Fast Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "LEVELBALL",
+    "name": null,
+    "real_name": "Level Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "LUREBALL",
+    "name": null,
+    "real_name": "Lure Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "HEAVYBALL",
+    "name": null,
+    "real_name": "Heavy Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "LOVEBALL",
+    "name": null,
+    "real_name": "Love Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "FRIENDBALL",
+    "name": null,
+    "real_name": "Friend Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "MOONBALL",
+    "name": null,
+    "real_name": "Moon Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "DREAMBALL",
+    "name": null,
+    "real_name": "Dream Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "BEASTBALL",
+    "name": null,
+    "real_name": "Beast Ball",
+    "desc": null,
+    "pocket": 3,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 4,
+    "type": null,
+    "flags": [
+      "PokeBall"
+    ]
+  },
+  {
+    "id": "TM01",
+    "name": null,
+    "real_name": "TM01",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_150"
+    ]
+  },
+  {
+    "id": "TM02",
+    "name": null,
+    "real_name": "TM02",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TM03",
+    "name": null,
+    "real_name": "TM03",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "TM04",
+    "name": null,
+    "real_name": "TM04",
+    "desc": null,
+    "pocket": 4,
+    "price": 1500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM05",
+    "name": null,
+    "real_name": "TM05",
+    "desc": null,
+    "pocket": 4,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM06",
+    "name": null,
+    "real_name": "TM06",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM07",
+    "name": null,
+    "real_name": "TM07",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM08",
+    "name": null,
+    "real_name": "TM08",
+    "desc": null,
+    "pocket": 4,
+    "price": 1500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM09",
+    "name": null,
+    "real_name": "TM09",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_25"
+    ]
+  },
+  {
+    "id": "TM10",
+    "name": null,
+    "real_name": "TM10",
+    "desc": null,
+    "pocket": 4,
+    "price": 1500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM11",
+    "name": null,
+    "real_name": "TM11",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM12",
+    "name": null,
+    "real_name": "TM12",
+    "desc": null,
+    "pocket": 4,
+    "price": 1500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM13",
+    "name": null,
+    "real_name": "TM13",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "TM14",
+    "name": null,
+    "real_name": "TM14",
+    "desc": null,
+    "pocket": 4,
+    "price": 5500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_110"
+    ]
+  },
+  {
+    "id": "TM15",
+    "name": null,
+    "real_name": "TM15",
+    "desc": null,
+    "pocket": 4,
+    "price": 7500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_150"
+    ]
+  },
+  {
+    "id": "TM16",
+    "name": null,
+    "real_name": "TM16",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM17",
+    "name": null,
+    "real_name": "TM17",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM18",
+    "name": null,
+    "real_name": "TM18",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM19",
+    "name": null,
+    "real_name": "TM19",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_75"
+    ]
+  },
+  {
+    "id": "TM20",
+    "name": null,
+    "real_name": "TM20",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM21",
+    "name": null,
+    "real_name": "TM21",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TM22",
+    "name": null,
+    "real_name": "TM22",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_120"
+    ]
+  },
+  {
+    "id": "TM23",
+    "name": null,
+    "real_name": "TM23",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "TM24",
+    "name": null,
+    "real_name": "TM24",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "TM25",
+    "name": null,
+    "real_name": "TM25",
+    "desc": null,
+    "pocket": 4,
+    "price": 5500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_110"
+    ]
+  },
+  {
+    "id": "TM26",
+    "name": null,
+    "real_name": "TM26",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "TM27",
+    "name": null,
+    "real_name": "TM27",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_65"
+    ]
+  },
+  {
+    "id": "TM28",
+    "name": null,
+    "real_name": "TM28",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TM29",
+    "name": null,
+    "real_name": "TM29",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "TM30",
+    "name": null,
+    "real_name": "TM30",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TM31",
+    "name": null,
+    "real_name": "TM31",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_75"
+    ]
+  },
+  {
+    "id": "TM32",
+    "name": null,
+    "real_name": "TM32",
+    "desc": null,
+    "pocket": 4,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM33",
+    "name": null,
+    "real_name": "TM33",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM34",
+    "name": null,
+    "real_name": "TM34",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "TM35",
+    "name": null,
+    "real_name": "TM35",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "TM36",
+    "name": null,
+    "real_name": "TM36",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "TM37",
+    "name": null,
+    "real_name": "TM37",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM38",
+    "name": null,
+    "real_name": "TM38",
+    "desc": null,
+    "pocket": 4,
+    "price": 5500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_110"
+    ]
+  },
+  {
+    "id": "TM39",
+    "name": null,
+    "real_name": "TM39",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "TM40",
+    "name": null,
+    "real_name": "TM40",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "TM41",
+    "name": null,
+    "real_name": "TM41",
+    "desc": null,
+    "pocket": 4,
+    "price": 1500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM42",
+    "name": null,
+    "real_name": "TM42",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "TM43",
+    "name": null,
+    "real_name": "TM43",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "TM44",
+    "name": null,
+    "real_name": "TM44",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM45",
+    "name": null,
+    "real_name": "TM45",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM46",
+    "name": null,
+    "real_name": "TM46",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "TM47",
+    "name": null,
+    "real_name": "TM47",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "TM48",
+    "name": null,
+    "real_name": "TM48",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM49",
+    "name": null,
+    "real_name": "TM49",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TM50",
+    "name": null,
+    "real_name": "TM50",
+    "desc": null,
+    "pocket": 4,
+    "price": 5500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_130"
+    ]
+  },
+  {
+    "id": "TM51",
+    "name": null,
+    "real_name": "TM51",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM52",
+    "name": null,
+    "real_name": "TM52",
+    "desc": null,
+    "pocket": 4,
+    "price": 5500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_120"
+    ]
+  },
+  {
+    "id": "TM53",
+    "name": null,
+    "real_name": "TM53",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "TM54",
+    "name": null,
+    "real_name": "TM54",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_40"
+    ]
+  },
+  {
+    "id": "TM55",
+    "name": null,
+    "real_name": "TM55",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_65"
+    ]
+  },
+  {
+    "id": "TM56",
+    "name": null,
+    "real_name": "TM56",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM57",
+    "name": null,
+    "real_name": "TM57",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "TM58",
+    "name": null,
+    "real_name": "TM58",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM59",
+    "name": null,
+    "real_name": "TM59",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_85"
+    ]
+  },
+  {
+    "id": "TM60",
+    "name": null,
+    "real_name": "TM60",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_75"
+    ]
+  },
+  {
+    "id": "TM61",
+    "name": null,
+    "real_name": "TM61",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM62",
+    "name": null,
+    "real_name": "TM62",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "TM63",
+    "name": null,
+    "real_name": "TM63",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM64",
+    "name": null,
+    "real_name": "TM64",
+    "desc": null,
+    "pocket": 4,
+    "price": 7500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_250"
+    ]
+  },
+  {
+    "id": "TM65",
+    "name": null,
+    "real_name": "TM65",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "TM66",
+    "name": null,
+    "real_name": "TM66",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "TM67",
+    "name": null,
+    "real_name": "TM67",
+    "desc": null,
+    "pocket": 4,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM68",
+    "name": null,
+    "real_name": "TM68",
+    "desc": null,
+    "pocket": 4,
+    "price": 7500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_150"
+    ]
+  },
+  {
+    "id": "TM69",
+    "name": null,
+    "real_name": "TM69",
+    "desc": null,
+    "pocket": 4,
+    "price": 1500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM70",
+    "name": null,
+    "real_name": "TM70",
+    "desc": null,
+    "pocket": 4,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM71",
+    "name": null,
+    "real_name": "TM71",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "TM72",
+    "name": null,
+    "real_name": "TM72",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "TM73",
+    "name": null,
+    "real_name": "TM73",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM74",
+    "name": null,
+    "real_name": "TM74",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM75",
+    "name": null,
+    "real_name": "TM75",
+    "desc": null,
+    "pocket": 4,
+    "price": 1500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM76",
+    "name": null,
+    "real_name": "TM76",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM77",
+    "name": null,
+    "real_name": "TM77",
+    "desc": null,
+    "pocket": 4,
+    "price": 1500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM78",
+    "name": null,
+    "real_name": "TM78",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_55"
+    ]
+  },
+  {
+    "id": "TM79",
+    "name": null,
+    "real_name": "TM79",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TM80",
+    "name": null,
+    "real_name": "TM80",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_75"
+    ]
+  },
+  {
+    "id": "TM81",
+    "name": null,
+    "real_name": "TM81",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TM82",
+    "name": null,
+    "real_name": "TM82",
+    "desc": null,
+    "pocket": 4,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM83",
+    "name": null,
+    "real_name": "TM83",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "TM84",
+    "name": null,
+    "real_name": "TM84",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TM85",
+    "name": null,
+    "real_name": "TM85",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_100"
+    ]
+  },
+  {
+    "id": "TM86",
+    "name": null,
+    "real_name": "TM86",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM87",
+    "name": null,
+    "real_name": "TM87",
+    "desc": null,
+    "pocket": 4,
+    "price": 1500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM88",
+    "name": null,
+    "real_name": "TM88",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_60"
+    ]
+  },
+  {
+    "id": "TM89",
+    "name": null,
+    "real_name": "TM89",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_70"
+    ]
+  },
+  {
+    "id": "TM90",
+    "name": null,
+    "real_name": "TM90",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM91",
+    "name": null,
+    "real_name": "TM91",
+    "desc": null,
+    "pocket": 4,
+    "price": 3000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TM92",
+    "name": null,
+    "real_name": "TM92",
+    "desc": null,
+    "pocket": 4,
+    "price": 5500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM93",
+    "name": null,
+    "real_name": "TM93",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_50"
+    ]
+  },
+  {
+    "id": "TM94",
+    "name": null,
+    "real_name": "TM94",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "TM95",
+    "name": null,
+    "real_name": "TM95",
+    "desc": null,
+    "pocket": 4,
+    "price": 2500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "TM96",
+    "name": null,
+    "real_name": "TM96",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TM97",
+    "name": null,
+    "real_name": "TM97",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_10"
+    ]
+  },
+  {
+    "id": "TM98",
+    "name": null,
+    "real_name": "TM98",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_40"
+    ]
+  },
+  {
+    "id": "TM99",
+    "name": null,
+    "real_name": "TM99",
+    "desc": null,
+    "pocket": 4,
+    "price": 2500,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_80"
+    ]
+  },
+  {
+    "id": "TM100",
+    "name": null,
+    "real_name": "TM100",
+    "desc": null,
+    "pocket": 4,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_90"
+    ]
+  },
+  {
+    "id": "HM01",
+    "name": null,
+    "real_name": "HM01",
+    "desc": null,
+    "pocket": 4,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "HM02",
+    "name": null,
+    "real_name": "HM02",
+    "desc": null,
+    "pocket": 4,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "HM03",
+    "name": null,
+    "real_name": "HM03",
+    "desc": null,
+    "pocket": 4,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "HM04",
+    "name": null,
+    "real_name": "HM04",
+    "desc": null,
+    "pocket": 4,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "HM05",
+    "name": null,
+    "real_name": "HM05",
+    "desc": null,
+    "pocket": 4,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "HM06",
+    "name": null,
+    "real_name": "HM06",
+    "desc": null,
+    "pocket": 4,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+
+    ]
+  },
+  {
+    "id": "CHERIBERRY",
+    "name": null,
+    "real_name": "Cheri Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FIRE_80"
+    ]
+  },
+  {
+    "id": "CHESTOBERRY",
+    "name": null,
+    "real_name": "Chesto Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_WATER_80"
+    ]
+  },
+  {
+    "id": "PECHABERRY",
+    "name": null,
+    "real_name": "Pecha Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ELECTRIC_80"
+    ]
+  },
+  {
+    "id": "RAWSTBERRY",
+    "name": null,
+    "real_name": "Rawst Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GRASS_80"
+    ]
+  },
+  {
+    "id": "ASPEARBERRY",
+    "name": null,
+    "real_name": "Aspear Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ICE_80"
+    ]
+  },
+  {
+    "id": "LEPPABERRY",
+    "name": null,
+    "real_name": "Leppa Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 2,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FIGHTING_80"
+    ]
+  },
+  {
+    "id": "ORANBERRY",
+    "name": null,
+    "real_name": "Oran Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_POISON_80"
+    ]
+  },
+  {
+    "id": "PERSIMBERRY",
+    "name": null,
+    "real_name": "Persim Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GROUND_80"
+    ]
+  },
+  {
+    "id": "LUMBERRY",
+    "name": null,
+    "real_name": "Lum Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FLYING_80"
+    ]
+  },
+  {
+    "id": "SITRUSBERRY",
+    "name": null,
+    "real_name": "Sitrus Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_PSYCHIC_80"
+    ]
+  },
+  {
+    "id": "FIGYBERRY",
+    "name": null,
+    "real_name": "Figy Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_BUG_80"
+    ]
+  },
+  {
+    "id": "WIKIBERRY",
+    "name": null,
+    "real_name": "Wiki Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ROCK_80"
+    ]
+  },
+  {
+    "id": "MAGOBERRY",
+    "name": null,
+    "real_name": "Mago Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GHOST_80"
+    ]
+  },
+  {
+    "id": "AGUAVBERRY",
+    "name": null,
+    "real_name": "Aguav Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_DRAGON_80"
+    ]
+  },
+  {
+    "id": "IAPAPABERRY",
+    "name": null,
+    "real_name": "Iapapa Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_DARK_80"
+    ]
+  },
+  {
+    "id": "RAZZBERRY",
+    "name": null,
+    "real_name": "Razz Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_STEEL_80"
+    ]
+  },
+  {
+    "id": "BLUKBERRY",
+    "name": null,
+    "real_name": "Bluk Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FIRE_90"
+    ]
+  },
+  {
+    "id": "NANABBERRY",
+    "name": null,
+    "real_name": "Nanab Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_WATER_90"
+    ]
+  },
+  {
+    "id": "WEPEARBERRY",
+    "name": null,
+    "real_name": "Wepear Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ELECTRIC_90"
+    ]
+  },
+  {
+    "id": "PINAPBERRY",
+    "name": null,
+    "real_name": "Pinap Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GRASS_90"
+    ]
+  },
+  {
+    "id": "POMEGBERRY",
+    "name": null,
+    "real_name": "Pomeg Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ICE_90"
+    ]
+  },
+  {
+    "id": "KELPSYBERRY",
+    "name": null,
+    "real_name": "Kelpsy Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FIGHTING_90"
+    ]
+  },
+  {
+    "id": "QUALOTBERRY",
+    "name": null,
+    "real_name": "Qualot Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_POISON_90"
+    ]
+  },
+  {
+    "id": "HONDEWBERRY",
+    "name": null,
+    "real_name": "Hondew Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GROUND_90"
+    ]
+  },
+  {
+    "id": "GREPABERRY",
+    "name": null,
+    "real_name": "Grepa Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FLYING_90"
+    ]
+  },
+  {
+    "id": "TAMATOBERRY",
+    "name": null,
+    "real_name": "Tamato Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_PSYCHIC_90"
+    ]
+  },
+  {
+    "id": "CORNNBERRY",
+    "name": null,
+    "real_name": "Cornn Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_BUG_90"
+    ]
+  },
+  {
+    "id": "MAGOSTBERRY",
+    "name": null,
+    "real_name": "Magost Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ROCK_90"
+    ]
+  },
+  {
+    "id": "RABUTABERRY",
+    "name": null,
+    "real_name": "Rabuta Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GHOST_90"
+    ]
+  },
+  {
+    "id": "NOMELBERRY",
+    "name": null,
+    "real_name": "Nomel Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_DRAGON_90"
+    ]
+  },
+  {
+    "id": "SPELONBERRY",
+    "name": null,
+    "real_name": "Spelon Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_DARK_90"
+    ]
+  },
+  {
+    "id": "PAMTREBERRY",
+    "name": null,
+    "real_name": "Pamtre Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_STEEL_90"
+    ]
+  },
+  {
+    "id": "WATMELBERRY",
+    "name": null,
+    "real_name": "Watmel Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FIRE_100"
+    ]
+  },
+  {
+    "id": "DURINBERRY",
+    "name": null,
+    "real_name": "Durin Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_WATER_100"
+    ]
+  },
+  {
+    "id": "BELUEBERRY",
+    "name": null,
+    "real_name": "Belue Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ELECTRIC_100"
+    ]
+  },
+  {
+    "id": "OCCABERRY",
+    "name": null,
+    "real_name": "Occa Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FIRE_80"
+    ]
+  },
+  {
+    "id": "PASSHOBERRY",
+    "name": null,
+    "real_name": "Passho Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_WATER_80"
+    ]
+  },
+  {
+    "id": "WACANBERRY",
+    "name": null,
+    "real_name": "Wacan Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ELECTRIC_80"
+    ]
+  },
+  {
+    "id": "RINDOBERRY",
+    "name": null,
+    "real_name": "Rindo Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GRASS_80"
+    ]
+  },
+  {
+    "id": "YACHEBERRY",
+    "name": null,
+    "real_name": "Yache Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ICE_80"
+    ]
+  },
+  {
+    "id": "CHOPLEBERRY",
+    "name": null,
+    "real_name": "Chople Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FIGHTING_80"
+    ]
+  },
+  {
+    "id": "KEBIABERRY",
+    "name": null,
+    "real_name": "Kebia Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_POISON_80"
+    ]
+  },
+  {
+    "id": "SHUCABERRY",
+    "name": null,
+    "real_name": "Shuca Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GROUND_80"
+    ]
+  },
+  {
+    "id": "COBABERRY",
+    "name": null,
+    "real_name": "Coba Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FLYING_80"
+    ]
+  },
+  {
+    "id": "PAYAPABERRY",
+    "name": null,
+    "real_name": "Payapa Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_PSYCHIC_80"
+    ]
+  },
+  {
+    "id": "TANGABERRY",
+    "name": null,
+    "real_name": "Tanga Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_BUG_80"
+    ]
+  },
+  {
+    "id": "CHARTIBERRY",
+    "name": null,
+    "real_name": "Charti Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ROCK_80"
+    ]
+  },
+  {
+    "id": "KASIBBERRY",
+    "name": null,
+    "real_name": "Kasib Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GHOST_80"
+    ]
+  },
+  {
+    "id": "HABANBERRY",
+    "name": null,
+    "real_name": "Haban Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_DRAGON_80"
+    ]
+  },
+  {
+    "id": "COLBURBERRY",
+    "name": null,
+    "real_name": "Colbur Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_DARK_80"
+    ]
+  },
+  {
+    "id": "BABIRIBERRY",
+    "name": null,
+    "real_name": "Babiri Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_STEEL_80"
+    ]
+  },
+  {
+    "id": "ROSELIBERRY",
+    "name": null,
+    "real_name": "Roseli Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FAIRY_80"
+    ]
+  },
+  {
+    "id": "CHILANBERRY",
+    "name": null,
+    "real_name": "Chilan Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_NORMAL_80"
+    ]
+  },
+  {
+    "id": "LIECHIBERRY",
+    "name": null,
+    "real_name": "Liechi Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GRASS_100"
+    ]
+  },
+  {
+    "id": "GANLONBERRY",
+    "name": null,
+    "real_name": "Ganlon Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ICE_100"
+    ]
+  },
+  {
+    "id": "SALACBERRY",
+    "name": null,
+    "real_name": "Salac Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FIGHTING_100"
+    ]
+  },
+  {
+    "id": "PETAYABERRY",
+    "name": null,
+    "real_name": "Petaya Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_POISON_100"
+    ]
+  },
+  {
+    "id": "APICOTBERRY",
+    "name": null,
+    "real_name": "Apicot Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GROUND_100"
+    ]
+  },
+  {
+    "id": "LANSATBERRY",
+    "name": null,
+    "real_name": "Lansat Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FLYING_100"
+    ]
+  },
+  {
+    "id": "STARFBERRY",
+    "name": null,
+    "real_name": "Starf Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_PSYCHIC_100"
+    ]
+  },
+  {
+    "id": "ENIGMABERRY",
+    "name": null,
+    "real_name": "Enigma Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_BUG_100"
+    ]
+  },
+  {
+    "id": "MICLEBERRY",
+    "name": null,
+    "real_name": "Micle Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_ROCK_100"
+    ]
+  },
+  {
+    "id": "CUSTAPBERRY",
+    "name": null,
+    "real_name": "Custap Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_GHOST_100"
+    ]
+  },
+  {
+    "id": "JABOCABERRY",
+    "name": null,
+    "real_name": "Jaboca Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_DRAGON_100"
+    ]
+  },
+  {
+    "id": "ROWAPBERRY",
+    "name": null,
+    "real_name": "Rowap Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_DARK_100"
+    ]
+  },
+  {
+    "id": "KEEBERRY",
+    "name": null,
+    "real_name": "Kee Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_FAIRY_100"
+    ]
+  },
+  {
+    "id": "MARANGABERRY",
+    "name": null,
+    "real_name": "Maranga Berry",
+    "desc": null,
+    "pocket": 5,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Berry",
+      "Fling_10",
+      "NaturalGift_DARK_100"
+    ]
+  },
+  {
+    "id": "GRASSMAIL",
+    "name": null,
+    "real_name": "Grass Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "FLAMEMAIL",
+    "name": null,
+    "real_name": "Flame Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "BUBBLEMAIL",
+    "name": null,
+    "real_name": "Bubble Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "BLOOMMAIL",
+    "name": null,
+    "real_name": "Bloom Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "TUNNELMAIL",
+    "name": null,
+    "real_name": "Tunnel Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "STEELMAIL",
+    "name": null,
+    "real_name": "Steel Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "HEARTMAIL",
+    "name": null,
+    "real_name": "Heart Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "SNOWMAIL",
+    "name": null,
+    "real_name": "Snow Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "SPACEMAIL",
+    "name": null,
+    "real_name": "Space Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "AIRMAIL",
+    "name": null,
+    "real_name": "Air Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "MOSAICMAIL",
+    "name": null,
+    "real_name": "Mosaic Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "BRICKMAIL",
+    "name": null,
+    "real_name": "Brick Mail",
+    "desc": null,
+    "pocket": 6,
+    "price": 50,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "IconMail"
+    ]
+  },
+  {
+    "id": "XATTACK",
+    "name": null,
+    "real_name": "X Attack",
+    "desc": null,
+    "pocket": 7,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XATTACK2",
+    "name": null,
+    "real_name": "X Attack 2",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XATTACK3",
+    "name": null,
+    "real_name": "X Attack 3",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XATTACK6",
+    "name": null,
+    "real_name": "X Attack 6",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XDEFENSE",
+    "name": null,
+    "real_name": "X Defense",
+    "desc": null,
+    "pocket": 7,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XDEFENSE2",
+    "name": null,
+    "real_name": "X Defense 2",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XDEFENSE3",
+    "name": null,
+    "real_name": "X Defense 3",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XDEFENSE6",
+    "name": null,
+    "real_name": "X Defense 6",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPATK",
+    "name": null,
+    "real_name": "X Sp. Atk",
+    "desc": null,
+    "pocket": 7,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPATK2",
+    "name": null,
+    "real_name": "X Sp. Atk 2",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPATK3",
+    "name": null,
+    "real_name": "X Sp. Atk 3",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPATK6",
+    "name": null,
+    "real_name": "X Sp. Atk 6",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPDEF",
+    "name": null,
+    "real_name": "X Sp. Def",
+    "desc": null,
+    "pocket": 7,
+    "price": 2000,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPDEF2",
+    "name": null,
+    "real_name": "X Sp. Def 2",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPDEF3",
+    "name": null,
+    "real_name": "X Sp. Def 3",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPDEF6",
+    "name": null,
+    "real_name": "X Sp. Def 6",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPEED",
+    "name": null,
+    "real_name": "X Speed",
+    "desc": null,
+    "pocket": 7,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPEED2",
+    "name": null,
+    "real_name": "X Speed 2",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPEED3",
+    "name": null,
+    "real_name": "X Speed 3",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XSPEED6",
+    "name": null,
+    "real_name": "X Speed 6",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XACCURACY",
+    "name": null,
+    "real_name": "X Accuracy",
+    "desc": null,
+    "pocket": 7,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XACCURACY2",
+    "name": null,
+    "real_name": "X Accuracy 2",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XACCURACY3",
+    "name": null,
+    "real_name": "X Accuracy 3",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "XACCURACY6",
+    "name": null,
+    "real_name": "X Accuracy 6",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "MAXMUSHROOMS",
+    "name": null,
+    "real_name": "Max Mushrooms",
+    "desc": null,
+    "pocket": 7,
+    "price": 8000,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "DIREHIT",
+    "name": null,
+    "real_name": "Dire Hit",
+    "desc": null,
+    "pocket": 7,
+    "price": 1000,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "DIREHIT2",
+    "name": null,
+    "real_name": "Dire Hit 2",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "DIREHIT3",
+    "name": null,
+    "real_name": "Dire Hit 3",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "GUARDSPEC",
+    "name": null,
+    "real_name": "Guard Spec.",
+    "desc": null,
+    "pocket": 7,
+    "price": 1500,
+    "use_cmd": null,
+    "battle_use": 5,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "RESETURGE",
+    "name": null,
+    "real_name": "Reset Urge",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ABILITYURGE",
+    "name": null,
+    "real_name": "Ability Urge",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ITEMURGE",
+    "name": null,
+    "real_name": "Item Urge",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "ITEMDROP",
+    "name": null,
+    "real_name": "Item Drop",
+    "desc": null,
+    "pocket": 7,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BLUEFLUTE",
+    "name": null,
+    "real_name": "Blue Flute",
+    "desc": null,
+    "pocket": 7,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 1,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "YELLOWFLUTE",
+    "name": null,
+    "real_name": "Yellow Flute",
+    "desc": null,
+    "pocket": 7,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "REDFLUTE",
+    "name": null,
+    "real_name": "Red Flute",
+    "desc": null,
+    "pocket": 7,
+    "price": 20,
+    "use_cmd": null,
+    "battle_use": 3,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "POKEDOLL",
+    "name": null,
+    "real_name": "Poké Doll",
+    "desc": null,
+    "pocket": 7,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 5,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "FLUFFYTAIL",
+    "name": null,
+    "real_name": "Fluffy Tail",
+    "desc": null,
+    "pocket": 7,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 5,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "POKETOY",
+    "name": null,
+    "real_name": "Poké Toy",
+    "desc": null,
+    "pocket": 7,
+    "price": 300,
+    "use_cmd": null,
+    "battle_use": 5,
+    "type": null,
+    "flags": [
+      "Fling_30"
+    ]
+  },
+  {
+    "id": "BICYCLE",
+    "name": null,
+    "real_name": "Bicycle",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "OLDROD",
+    "name": null,
+    "real_name": "Old Rod",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "GOODROD",
+    "name": null,
+    "real_name": "Good Rod",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "SUPERROD",
+    "name": null,
+    "real_name": "Super Rod",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "ITEMFINDER",
+    "name": null,
+    "real_name": "Itemfinder",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "DOWSINGMACHINE",
+    "name": null,
+    "real_name": "Dowsing Machine",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "POKERADAR",
+    "name": null,
+    "real_name": "Poké Radar",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "TOWNMAP",
+    "name": null,
+    "real_name": "Town Map",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "ESCAPEROPE",
+    "name": null,
+    "real_name": "Escape Rope",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "COINCASE",
+    "name": null,
+    "real_name": "Coin Case",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "POKEFLUTE",
+    "name": null,
+    "real_name": "Poké Flute",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 5,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "SOOTSACK",
+    "name": null,
+    "real_name": "Soot Sack",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "SILPHSCOPE",
+    "name": null,
+    "real_name": "Silph Scope",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "DEVONSCOPE",
+    "name": null,
+    "real_name": "Devon Scope",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "SQUIRTBOTTLE",
+    "name": null,
+    "real_name": "Squirt Bottle",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "SPRAYDUCK",
+    "name": null,
+    "real_name": "Sprayduck",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "WAILMERPAIL",
+    "name": null,
+    "real_name": "Wailmer Pail",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "SPRINKLOTAD",
+    "name": null,
+    "real_name": "Sprinklotad",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "GRACIDEA",
+    "name": null,
+    "real_name": "Gracidea",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "REVEALGLASS",
+    "name": null,
+    "real_name": "Reveal Glass",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "PRISONBOTTLE",
+    "name": null,
+    "real_name": "Prison Bottle",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "ROTOMCATALOG",
+    "name": null,
+    "real_name": "Rotom Catalog",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "ZYGARDECUBE",
+    "name": null,
+    "real_name": "Zygarde Cube",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "DNASPLICERS",
+    "name": null,
+    "real_name": "DNA Splicers",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "DNASPLICERSUSED",
+    "name": null,
+    "real_name": "DNA Splicers",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "NSOLARIZER",
+    "name": null,
+    "real_name": "N-Solarizer",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "NSOLARIZERUSED",
+    "name": null,
+    "real_name": "N-Solarizer",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "NLUNARIZER",
+    "name": null,
+    "real_name": "N-Lunarizer",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "NLUNARIZERUSED",
+    "name": null,
+    "real_name": "N-Lunarizer",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "REINSOFUNITY",
+    "name": null,
+    "real_name": "Reins of Unity",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "REINSOFUNITYUSED",
+    "name": null,
+    "real_name": "Reins of Unity",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "OVALCHARM",
+    "name": null,
+    "real_name": "Oval Charm",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "SHINYCHARM",
+    "name": null,
+    "real_name": "Shiny Charm",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "CATCHINGCHARM",
+    "name": null,
+    "real_name": "Catching Charm",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "EXPCHARM",
+    "name": null,
+    "real_name": "Exp. Charm",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "MEGARING",
+    "name": null,
+    "real_name": "Mega Ring",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem",
+      "MegaRing"
+    ]
+  },
+  {
+    "id": "POKEMONBOXLINK",
+    "name": null,
+    "real_name": "Pokémon Box Link",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "AURORATICKET",
+    "name": null,
+    "real_name": "Aurora Ticket",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  },
+  {
+    "id": "OLDSEAMAP",
+    "name": null,
+    "real_name": "Old Sea Map",
+    "desc": null,
+    "pocket": 8,
+    "price": 0,
+    "use_cmd": null,
+    "battle_use": 0,
+    "type": null,
+    "flags": [
+      "KeyItem"
+    ]
+  }
+]

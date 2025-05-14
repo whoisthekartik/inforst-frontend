@@ -1,0 +1,31 @@
+[
+  {
+    "mapId": "start-town",
+    "events": [
+      {
+        "id": "npc-1",
+        "x": 3,
+        "y": 4,
+        "type": "dialogue",
+        "text": "Welcome to Inforst!"
+      },
+      {
+        "id": "shop-1",
+        "x": 5,
+        "y": 5,
+        "type": "shop"
+      },
+      {
+        "id": "battle-1",
+        "x": 6,
+        "y": 6,
+        "type": "battle",
+        "enemy": {
+          "name": "Wild Flamara",
+          "level": 3,
+          "hp": 50
+        }
+      }
+    ]
+  }
+]
